@@ -27,6 +27,11 @@ export default new Router({
       path: "/form",
       name: "Form",
       component: () => import("./components/Form")
+    },
+    {
+      path: "/spreadsheet1",
+      name: "Spreadsheet1",
+      component: () => import("./components/spreadsheet1")
     }
   ]
 });
