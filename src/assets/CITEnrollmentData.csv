@@ -1,0 +1,1230 @@
+﻿Course_Number,Course_Sec,Display_Name,Subprogram,Se,Code,Sem,Sort,Year,Code,Headcount
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),FA,3-,3,133,13,3-13,36
+CIT  110,CIT  110-02,"Robertson, Shawna",Online (ONLN),FA,3-,3,133,13,FA13,48
+CIT  110,CIT  110-03,"Boushnak, Fara",Online (ONLN),FA,3-,3,133,13,FA13,37
+CIT  110,CIT  110-04,"Duffy, Ted",Online (ONLN),FA,3-,3,133,13,3-13,40
+CIT  110,CIT  110-05,"Duffy, Ted",Online (ONLN),FA,3-,3,133,13,3-13,41
+CIT  111,CIT  111-02,"Voter, Jonathan",Online (ONLN),FA,3-,3,133,13,3-13,35
+CIT  111,CIT  111-04,"Barzee, Rex",Day School (DAY),FA,3-,3,133,13,3-13,31
+CIT  160,CIT  160-01,"Barney, Lee",Day School (DAY),FA,3-,3,133,13,3-13,35
+CIT  160,CIT  160-02,"Hayes, Adam",Day School (DAY),FA,3-,3,133,13,3-13,36
+CIT  160,CIT  160-03,"Wells, Daniel",Online (ONLN),FA,3-,3,133,13,FA13,45
+CIT  160,CIT  160-04,"Barzee, Rex",Day School (DAY),FA,3-,3,133,13,FA13,39
+CIT  160,CIT  160-06,"Ondricek, Jared",Online (ONLN),FA,3-,3,133,13,FA13,45
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,133,13,3-13,32
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),FA,3-,3,133,13,3-13,27
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),FA,3-,3,133,13,3-13,35
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),FA,3-,3,133,13,3-13,30
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),FA,3-,3,133,13,3-13,32
+CIT  230,CIT  230-05,"Maire, Craig",Online (ONLN),FA,3-,3,133,13,3-13,25
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,133,13,3-13,30
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),FA,3-,3,133,13,3-13,34
+CIT  241,CIT  241-01,"Ericson, Art",Day School (DAY),FA,3-,3,133,13,3-13,34
+CIT  260,CIT  260-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,133,13,3-13,15
+CIT  260,CIT  260-02,"Jackson, Kent",Day School (DAY),FA,3-,3,133,13,3-13,28
+CIT  260,CIT  260-03,"Weibell, Christian",Online (ONLN),FA,3-,3,133,13,3-13,33
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),FA,3-,3,133,13,3-13,11
+CIT  261,CIT  261-02,"Checketts, Clint",Online (ONLN),FA,3-,3,133,13,3-13,10
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,133,13,3-13,44
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,133,13,3-13,34
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),FA,3-,3,133,13,3-13,22
+CIT  336,CIT  336-03,"Robertson, Blaine",Day School (DAY),FA,3-,3,133,13,3-13,17
+CIT  341,CIT  341-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,133,13,3-13,11
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),FA,3-,3,133,13,3-13,17
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,133,13,3-13,25
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),FA,3-,3,133,13,3-13,13
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),FA,3-,3,133,13,3-13,26
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),FA,3-,3,133,13,3-13,25
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),FA,3-,3,133,13,3-13,27
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),FA,3-,3,133,13,3-13,28
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,133,13,3-13,30
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,133,13,3-13,25
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,133,13,3-13,6
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),FA,3-,3,133,13,3-13,10
+CIT  460,CIT  460-01,"Jackson, Kent",Day School (DAY),FA,3-,3,133,13,3-13,5
+CIT  465,CIT  465-01,"Barney, Lee",Day School (DAY),FA,3-,3,133,13,3-13,8
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,133,13,3-13,6
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),FA,3-,3,133,13,3-13,27
+CIT  498,CIT  498-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,133,13,3-13,12
+CIT  110,CIT  110-02,"Boushnak, Fara",Online (ONLN),WI,1-,1,141,14,1-14,46
+CIT  110,CIT  110-03,"Robertson, Shawna",Online (ONLN),WI,1-,1,141,14,1-14,47
+CIT  110,CIT  110-04,"Duffy, Ted",Online (ONLN),WI,1-,1,141,14,1-14,46
+CIT  110,CIT  110-05,"Duffy, Ted",Online (ONLN),WI,1-,1,141,14,1-14,49
+CIT  110,CIT  110-06,"Boushnak, Fara",Online (ONLN),WI,1-,1,141,14,1-14,43
+CIT  111,CIT  111-01,"Barzee, Rex",Day School (DAY),WI,1-,1,141,14,1-14,30
+CIT  111,CIT  111-02,"Voter, Jonathan",Online (ONLN),WI,1-,1,141,14,1-14,31
+CIT  111,CIT  111-03,"Voter, Jonathan",Online (ONLN),WI,1-,1,141,14,1-14,22
+CIT  160,CIT  160-04,"Barzee, Rex",Day School (DAY),WI,1-,1,141,14,WI14,44
+CIT  160,CIT  160-05,"Barzee, Rex",Day School (DAY),WI,1-,1,141,14,WI14,40
+CIT  160,CIT  160-06,"Wells, Daniel",Online (ONLN),WI,1-,1,141,14,WI14,43
+CIT  160,CIT  160-07,"Ondricek, Jared",Online (ONLN),WI,1-,1,141,14,WI14,36
+CIT  160,CIT  160-08,"Ashford, Jed",Online (ONLN),WI,1-,1,141,14,WI14,47
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,141,14,1-14,39
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),WI,1-,1,141,14,1-14,40
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,141,14,1-14,32
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,141,14,1-14,35
+CIT  230,CIT  230-05,"Maire, Craig",Online (ONLN),WI,1-,1,141,14,1-14,26
+CIT  230,CIT  230-06,"Smith, Matt",Online (ONLN),WI,1-,1,141,14,1-14,27
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,141,14,1-14,30
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),WI,1-,1,141,14,1-14,30
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),WI,1-,1,141,14,1-14,30
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,141,14,1-14,41
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,141,14,1-14,22
+CIT  260,CIT  260-03,"Neville, Michael",Online (ONLN),WI,1-,1,141,14,1-14,34
+CIT  260,CIT  260-04,"Olaveson, Mark",Day School (DAY),WI,1-,1,141,14,1-14,23
+CIT  260,CIT  260-05,"Wester, Aaron",Online (ONLN),WI,1-,1,141,14,1-14,24
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),WI,1-,1,141,14,1-14,19
+CIT  261,CIT  261-02,"Checketts, Clint",Online (ONLN),WI,1-,1,141,14,1-14,16
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,141,14,1-14,36
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),WI,1-,1,141,14,1-14,17
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,141,14,1-14,27
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,141,14,1-14,28
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,141,14,1-14,14
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),WI,1-,1,141,14,1-14,21
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),WI,1-,1,141,14,1-14,21
+CIT  352,CIT  352-03,"Clements, William",Online (ONLN),WI,1-,1,141,14,1-14,19
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),WI,1-,1,141,14,1-14,29
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),WI,1-,1,141,14,1-14,29
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),WI,1-,1,141,14,1-14,23
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),WI,1-,1,141,14,1-14,32
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,141,14,1-14,27
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),WI,1-,1,141,14,1-14,26
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,141,14,1-14,7
+CIT  460,CIT  460-01,"Barney, Lee",Day School (DAY),WI,1-,1,141,14,1-14,4
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),WI,1-,1,141,14,1-14,21
+CIT  495,CIT  495-01,"Rigby, Steven",Day School (DAY),WI,1-,1,141,14,1-14,20
+CIT  498,CIT  498-01,"Olaveson, Mark",Day School (DAY),WI,1-,1,141,14,1-14,24
+CIT  499,CIT  499-41,"Barney, Lee",Day School (DAY),WI,1-,1,141,14,1-14,2
+CIT  110,CIT  110-01,"Duffy, Ted",Online (ONLN),SP,2-,2,142,14,SP14,44
+CIT  110,CIT  110-02,"Robertson, Shawna",Online (ONLN),SP,2-,2,142,14,SP14,45
+CIT  110,CIT  110-03,"Boushnak, Fara",Online (ONLN),SP,2-,2,142,14,SP14,38
+CIT  110,CIT  110-04,"Somsen, Randy",Day School (DAY),SP,2-,2,142,14,2-14,24
+CIT  111,CIT  111-01,"Voter, Jonathan",Online (ONLN),SP,2-,2,142,14,2-14,20
+CIT  111,CIT  111-02,"Barzee, Rex",Day School (DAY),SP,2-,2,142,14,2-14,33
+CIT  111,CIT  111-03,"Johnson, Eric",Online (ONLN),SP,2-,2,142,14,2-14,17
+CIT  160,CIT  160-01,"Wells, Daniel",Online (ONLN),SP,2-,2,142,14,2-14,44
+CIT  160,CIT  160-02,"Somsen, Randy",Day School (DAY),SP,2-,2,142,14,2-14,28
+CIT  160,CIT  160-04,"Barzee, Rex",Day School (DAY),SP,2-,2,142,14,SP14,35
+CIT  160,CIT  160-05,"Ashford, Jed",Online (ONLN),SP,2-,2,142,14,SP14,43
+CIT  160,CIT  160-06,"Hayes, Adam",Day School (DAY),SP,2-,2,142,14,SP14,37
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,142,14,2-14,43
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,142,14,2-14,36
+CIT  230,CIT  230-01,"Maire, Craig",Online (ONLN),SP,2-,2,142,14,2-14,21
+CIT  230,CIT  230-02,"Odom, Mike",Online (ONLN),SP,2-,2,142,14,2-14,23
+CIT  230,CIT  230-03,"Robertson, Blaine",Day School (DAY),SP,2-,2,142,14,2-14,34
+CIT  230,CIT  230-04,"Robertson, Blaine",Day School (DAY),SP,2-,2,142,14,2-14,27
+CIT  230,CIT  230-05,"Somsen, Randy",Day School (DAY),SP,2-,2,142,14,2-14,19
+CIT  230,CIT  230-06,"Somsen, Randy",Day School (DAY),SP,2-,2,142,14,2-14,26
+CIT  230,CIT  230-07,"Horton, Rob",Online (ONLN),SP,2-,2,142,14,2-14,20
+CIT  240,CIT  240-01,"Belk, Nathan",Online (ONLN),SP,2-,2,142,14,2-14,48
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),SP,2-,2,142,14,2-14,12
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),SP,2-,2,142,14,2-14,29
+CIT  240,CIT  240-04,"Armstrong, Bradley",Day School (DAY),SP,2-,2,142,14,2-14,21
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,142,14,2-14,41
+CIT  260,CIT  260-01,"Wester, Aaron",Online (ONLN),SP,2-,2,142,14,2-14,37
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,142,14,2-14,23
+CIT  260,CIT  260-03,"Jackson, Kent",Day School (DAY),SP,2-,2,142,14,2-14,18
+CIT  260,CIT  260-04,"Jackson, Kent",Day School (DAY),SP,2-,2,142,14,2-14,7
+CIT  260,CIT  260-05,"Wester, Aaron",Online (ONLN),SP,2-,2,142,14,2-14,15
+CIT  261,CIT  261-01,"James, Gary",Online (ONLN),SP,2-,2,142,14,2-14,14
+CIT  261,CIT  261-02,"Barney, Lee",Day School (DAY),SP,2-,2,142,14,2-14,20
+CIT  262,CIT  262-01,"Christensen, Drew",Online (ONLN),SP,2-,2,142,14,2-14,14
+CIT  262,CIT  262-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,142,14,2-14,36
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,142,14,2-14,36
+CIT  325,CIT  325-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,142,14,2-14,13
+CIT  336,CIT  336-01,"Neville, Michael",Online (ONLN),SP,2-,2,142,14,2-14,26
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),SP,2-,2,142,14,2-14,18
+CIT  336,CIT  336-03,"Robertson, Blaine",Day School (DAY),SP,2-,2,142,14,2-14,5
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),SP,2-,2,142,14,2-14,16
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),SP,2-,2,142,14,2-14,23
+CIT  352,CIT  352-01,"Clements, William",Online (ONLN),SP,2-,2,142,14,2-14,9
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,142,14,2-14,25
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),SP,2-,2,142,14,2-14,23
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),SP,2-,2,142,14,2-14,25
+CIT  360,CIT  360-01,"Morain, Gary",Online (ONLN),SP,2-,2,142,14,2-14,9
+CIT  360,CIT  360-02,"Barney, Lee",Day School (DAY),SP,2-,2,142,14,2-14,31
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),SP,2-,2,142,14,2-14,12
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),SP,2-,2,142,14,2-14,21
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),SP,2-,2,142,14,2-14,14
+CIT  380,CIT  380-03,"Godfrey, Kory",Day School (DAY),SP,2-,2,142,14,2-14,21
+CIT  380,CIT  380-04,"Parsons, Earl",Online (ONLN),SP,2-,2,142,14,2-14,18
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,142,14,2-14,5
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),SP,2-,2,142,14,2-14,8
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),SP,2-,2,142,14,2-14,16
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,142,14,2-14,4
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),SP,2-,2,142,14,2-14,25
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),SP,2-,2,142,14,2-14,16
+CIT  499,CIT  499-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,142,14,2-14,1
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),FA,3-,3,143,14,3-14,34
+CIT  110,CIT  110-02,"Duffy, Ted",Online (ONLN),FA,3-,3,143,14,3-14,47
+CIT  110,CIT  110-03,"Robertson, Shawna",Online (ONLN),FA,3-,3,143,14,3-14,47
+CIT  110,CIT  110-04,"Boushnak, Fara",Online (ONLN),FA,3-,3,143,14,3-14,40
+CIT  110,CIT  110-05,"Derricott, Tony",Online (ONLN),FA,3-,3,143,14,3-14,50
+CIT  110,CIT  110-06,"Robertson, Shawna",Online (ONLN),FA,3-,3,143,14,3-14,39
+CIT  110,CIT  110-07,"Duffy, Ted",Online (ONLN),FA,3-,3,143,14,3-14,42
+CIT  110,CIT  110-08,"Somsen, Randy",Day School (DAY),FA,3-,3,143,14,3-14,16
+CIT  111,CIT  111-01,"Barzee, Rex",Day School (DAY),FA,3-,3,143,14,3-14,38
+CIT  111,CIT  111-02,"Voter, Jonathan",Online (ONLN),FA,3-,3,143,14,3-14,38
+CIT  111,CIT  111-03,"Johnson, Eric",Online (ONLN),FA,3-,3,143,14,3-14,41
+CIT  160,CIT  160-01,"Jackson, Kent",Day School (DAY),FA,3-,3,143,14,3-14,36
+CIT  160,CIT  160-02,"Barzee, Rex",Day School (DAY),FA,3-,3,143,14,3-14,31
+CIT  160,CIT  160-03,"Barzee, Rex",Day School (DAY),FA,3-,3,143,14,3-14,40
+CIT  160,CIT  160-04,"Wells, Daniel",Online (ONLN),FA,3-,3,143,14,FA14,45
+CIT  160,CIT  160-05,"Wells, Daniel",Online (ONLN),FA,3-,3,143,14,FA14,45
+CIT  160,CIT  160-06,"Ashford, Jed",Online (ONLN),FA,3-,3,143,14,FA14,44
+CIT  160,CIT  160-07,"Ondricek, Jared",Online (ONLN),FA,3-,3,143,14,FA14,44
+CIT  160,CIT  160-08,"Hayes, Adam",Day School (DAY),FA,3-,3,143,14,FA14,23
+CIT  160,CIT  160-09,"Jackson, Kent",Day School (DAY),FA,3-,3,143,14,FA14,40
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,143,14,3-14,36
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),FA,3-,3,143,14,3-14,28
+CIT  225,CIT  225-03,"McLaughlin, Michael",Online (ONLN),FA,3-,3,143,14,3-14,29
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,143,14,3-14,23
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),FA,3-,3,143,14,3-14,26
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),FA,3-,3,143,14,3-14,14
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),FA,3-,3,143,14,3-14,31
+CIT  230,CIT  230-05,"Maire, Craig",Online (ONLN),FA,3-,3,143,14,3-14,24
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),FA,3-,3,143,14,3-14,25
+CIT  230,CIT  230-07,"Horton, Rob",Online (ONLN),FA,3-,3,143,14,3-14,24
+CIT  230,CIT  230-08,"Horton, Rob",Online (ONLN),FA,3-,3,143,14,3-14,23
+CIT  230,CIT  230-09,"Odom, Mike",Online (ONLN),FA,3-,3,143,14,3-14,24
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,143,14,3-14,21
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),FA,3-,3,143,14,3-14,22
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),FA,3-,3,143,14,3-14,26
+CIT  240,CIT  240-04,"Belk, Nathan",Online (ONLN),FA,3-,3,143,14,3-14,38
+CIT  240,CIT  240-05,"Armstrong, Bradley",Online (ONLN),FA,3-,3,143,14,3-14,40
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,143,14,3-14,45
+CIT  260,CIT  260-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,143,14,3-14,33
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),FA,3-,3,143,14,3-14,14
+CIT  260,CIT  260-03,"Wester, Aaron",Online (ONLN),FA,3-,3,143,14,3-14,27
+CIT  260,CIT  260-04,"Jackson, Kent",Online (ONLN),FA,3-,3,143,14,3-14,22
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),FA,3-,3,143,14,3-14,17
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),FA,3-,3,143,14,3-14,15
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,143,14,3-14,31
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),FA,3-,3,143,14,3-14,21
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,143,14,3-14,36
+CIT  325,CIT  325-02,"McLaughlin, Michael",Day School (DAY),FA,3-,3,143,14,3-14,9
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,143,14,3-14,25
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),FA,3-,3,143,14,3-14,12
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),FA,3-,3,143,14,3-14,30
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),FA,3-,3,143,14,3-14,11
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),FA,3-,3,143,14,3-14,14
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,143,14,3-14,30
+CIT  352,CIT  352-02,"Clements, William",Online (ONLN),FA,3-,3,143,14,3-14,28
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),FA,3-,3,143,14,3-14,32
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),FA,3-,3,143,14,3-14,21
+CIT  360,CIT  360-02,"Barney, Lee",Day School (DAY),FA,3-,3,143,14,3-14,23
+CIT  360,CIT  360-03,"Barney, Lee",Day School (DAY),FA,3-,3,143,14,3-14,13
+CIT  360,CIT  360-04,"Clements, William",Online (ONLN),FA,3-,3,143,14,3-14,9
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),FA,3-,3,143,14,3-14,15
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),FA,3-,3,143,14,3-14,22
+CIT  370,CIT  370-03,"Ondricek, Jared",Online (ONLN),FA,3-,3,143,14,3-14,35
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,143,14,3-14,17
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,143,14,3-14,30
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),FA,3-,3,143,14,3-14,25
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,143,14,3-14,6
+CIT  381,CIT  381-02,"Worthen, Mark",Online (ONLN),FA,3-,3,143,14,3-14,5
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),FA,3-,3,143,14,3-14,6
+CIT  465,CIT  465-01,"Barney, Lee",Day School (DAY),FA,3-,3,143,14,3-14,8
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),FA,3-,3,143,14,3-14,12
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,143,14,3-14,8
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),FA,3-,3,143,14,3-14,34
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),FA,3-,3,143,14,3-14,38
+CIT  499R,CIT  499R-01,"Barney, Lee",Day School (DAY),FA,3-,3,143,14,3-14,1
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),FA,3-,3,143,14,3-14,38
+WDD  100,WDD  100-02,"Karl, Eric",Online (ONLN),FA,3-,3,143,14,3-14,45
+WDD  100,WDD  100-03,"Hughes, Joel",Online (ONLN),FA,3-,3,143,14,3-14,43
+WDD  100,WDD  100-04,"Karl, Eric",Online (ONLN),FA,3-,3,143,14,3-14,44
+WDD  100,WDD  100-05,"Thompson, Shane",Day School (DAY),FA,3-,3,143,14,3-14,41
+WDD  100,WDD  100-06,"Hughes, Joel",Online (ONLN),FA,3-,3,143,14,3-14,44
+WDD  100,WDD  100-07,"Thompson, Shane",Day School (DAY),FA,3-,3,143,14,3-14,11
+WDD  100,WDD  100-08,"Hughes, Joel",Online (ONLN),FA,3-,3,143,14,3-14,45
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),FA,3-,3,143,14,3-14,9
+CIT  110,CIT  110-01,"Duffy, Ted",Online (ONLN),SS,SU-,SU-,14SU-,14,SU-14,33
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  110,CIT  110-02,"Duffy, Ted",Online (ONLN),WI,1-,1,151,15,WI15,47
+CIT  110,CIT  110-03,"Boushnak, Fara",Online (ONLN),WI,1-,1,151,15,WI15,49
+CIT  110,CIT  110-04,"Robertson, Shawna",Online (ONLN),WI,1-,1,151,15,1-15,50
+CIT  110,CIT  110-05,"Derricott, Tony",Online (ONLN),WI,1-,1,151,15,1-15,49
+CIT  110,CIT  110-06,"Duffy, Ted",Online (ONLN),WI,1-,1,151,15,1-15,50
+CIT  111,CIT  111-01,"Barzee, Rex",Day School (DAY),WI,1-,1,151,15,1-15,26
+CIT  111,CIT  111-02,"Hughes, Joel",Online (ONLN),WI,1-,1,151,15,1-15,45
+CIT  111,CIT  111-03,"Johnson, Eric",Online (ONLN),WI,1-,1,151,15,1-15,42
+CIT  160,CIT  160-02,"Barzee, Rex",Day School (DAY),WI,1-,1,151,15,1-15,36
+CIT  160,CIT  160-03,"Barzee, Rex",Day School (DAY),WI,1-,1,151,15,1-15,45
+CIT  160,CIT  160-06,"Ashford, Jed",Online (ONLN),WI,1-,1,151,15,WI15,46
+CIT  160,CIT  160-07,"Peterson, Jeff",Online (ONLN),WI,1-,1,151,15,WI15,45
+CIT  160,CIT  160-08,"Marsden, Adam",Online (ONLN),WI,1-,1,151,15,WI15,45
+CIT  160,CIT  160-09,"Clements, William",Online (ONLN),WI,1-,1,151,15,WI15,43
+CIT  160,CIT  160-10,"Wells, Daniel",Online (ONLN),WI,1-,1,151,15,WI15,45
+CIT  160,CIT  160-11,"Barney, Lee",Online (ONLN),WI,1-,1,151,15,WI15,24
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,151,15,1-15,33
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  225,CIT  225-03,"Voter, Jonathan",Online (ONLN),WI,1-,1,151,15,1-15,30
+CIT  225,CIT  225-04,"Voter, Jonathan",Online (ONLN),WI,1-,1,151,15,1-15,27
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,151,15,1-15,28
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,151,15,1-15,31
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),WI,1-,1,151,15,1-15,24
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  230,CIT  230-05,"Maire, Craig",Online (ONLN),WI,1-,1,151,15,1-15,25
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),WI,1-,1,151,15,1-15,24
+CIT  230,CIT  230-07,"Finch, Ted",Online (ONLN),WI,1-,1,151,15,1-15,21
+CIT  230,CIT  230-08,"Odom, Mike",Online (ONLN),WI,1-,1,151,15,1-15,23
+CIT  230,CIT  230-09,"Odom, Mike",Online (ONLN),WI,1-,1,151,15,1-15,25
+CIT  230,CIT  230-10,"Horton, Rob",Online (ONLN),WI,1-,1,151,15,1-15,22
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,151,15,1-15,19
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),WI,1-,1,151,15,1-15,24
+CIT  240,CIT  240-04,"Armstrong, Bradley",Online (ONLN),WI,1-,1,151,15,1-15,48
+CIT  240,CIT  240-05,"Armstrong, Bradley",Online (ONLN),WI,1-,1,151,15,1-15,50
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  241,CIT  241-02,"Belk, Nathan",Online (ONLN),WI,1-,1,151,15,1-15,43
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),WI,1-,1,151,15,1-15,31
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,151,15,1-15,23
+CIT  260,CIT  260-03,"Wester, Aaron",Online (ONLN),WI,1-,1,151,15,1-15,32
+CIT  260,CIT  260-04,"Jackson, Kent",Online (ONLN),WI,1-,1,151,15,1-15,41
+CIT  260,CIT  260-05,"Wester, Aaron",Online (ONLN),WI,1-,1,151,15,1-15,22
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),WI,1-,1,151,15,1-15,19
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),WI,1-,1,151,15,1-15,20
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),WI,1-,1,151,15,1-15,28
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,151,15,1-15,33
+CIT  325,CIT  325-02,"Hepworth, Chris",Online (ONLN),WI,1-,1,151,15,1-15,10
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,151,15,1-15,15
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,151,15,1-15,10
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),WI,1-,1,151,15,1-15,22
+CIT  336,CIT  336-04,"Woods, Bonny",Online (ONLN),WI,1-,1,151,15,1-15,21
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),WI,1-,1,151,15,1-15,12
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),WI,1-,1,151,15,1-15,25
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),WI,1-,1,151,15,1-15,28
+CIT  352,CIT  352-02,"Clements, William",Online (ONLN),WI,1-,1,151,15,1-15,31
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),WI,1-,1,151,15,1-15,24
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),WI,1-,1,151,15,1-15,23
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),WI,1-,1,151,15,1-15,19
+CIT  360,CIT  360-03,"Tuckett, Troy",Online (ONLN),WI,1-,1,151,15,1-15,23
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),WI,1-,1,151,15,1-15,16
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),WI,1-,1,151,15,1-15,32
+CIT  370,CIT  370-03,"Ondricek, Jared",Online (ONLN),WI,1-,1,151,15,1-15,25
+CIT  370,CIT  370-04,"Snider, David",Online (ONLN),WI,1-,1,151,15,1-15,16
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,151,15,1-15,22
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),WI,1-,1,151,15,1-15,30
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),WI,1-,1,151,15,1-15,31
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,151,15,1-15,10
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),WI,1-,1,151,15,1-15,3
+CIT  460,CIT  460-01,"Jackson, Kent",Day School (DAY),WI,1-,1,151,15,1-15,3
+CIT  465,CIT  465-01,"Barney, Lee",Day School (DAY),WI,1-,1,151,15,1-15,9
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),WI,1-,1,151,15,1-15,16
+CIT  490,CIT  490-02,"Godfrey, Kory",Day School (DAY),WI,1-,1,151,15,1-15,6
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),WI,1-,1,151,15,1-15,24
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),WI,1-,1,151,15,1-15,26
+CIT  499R,CIT  499R-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,151,15,1-15,18
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),WI,1-,1,151,15,1-15,32
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),WI,1-,1,151,15,1-15,18
+WDD  100,WDD  100-03,"Thompson, Shane",Day School (DAY),WI,1-,1,151,15,1-15,16
+WDD  100,WDD  100-04,"Hughes, Joel",Online (ONLN),WI,1-,1,151,15,1-15,45
+WDD  100,WDD  100-05,"Sheffield, Travis",Online (ONLN),WI,1-,1,151,15,1-15,45
+WDD  100,WDD  100-06,"Karl, Eric",Online (ONLN),WI,1-,1,151,15,1-15,45
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),WI,1-,1,151,15,1-15,2
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),SP,2-,2,152,15,2-15,31
+CIT  110,CIT  110-02,"Duffy, Ted",Online (ONLN),SP,2-,2,152,15,SP15,51
+CIT  110,CIT  110-03,"Boushnak, Fara",Online (ONLN),SP,2-,2,152,15,SP15,47
+CIT  110,CIT  110-04,"Robertson, Shawna",Online (ONLN),SP,2-,2,152,15,2-15,46
+CIT  110,CIT  110-05,"Derricott, Tony",Online (ONLN),SP,2-,2,152,15,2-15,47
+CIT  111,CIT  111-01,"Barzee, Rex",Day School (DAY),SP,2-,2,152,15,2-15,26
+CIT  111,CIT  111-02,"Johnson, Eric",Online (ONLN),SP,2-,2,152,15,2-15,30
+CIT  111,CIT  111-03,"Hughes, Joel",Online (ONLN),SP,2-,2,152,15,2-15,30
+CIT  160,CIT  160-01,"Hayes, Adam",Day School (DAY),SP,2-,2,152,15,2-15,32
+CIT  160,CIT  160-02,"Somsen, Randy",Day School (DAY),SP,2-,2,152,15,2-15,29
+CIT  160,CIT  160-03,"Barzee, Rex",Day School (DAY),SP,2-,2,152,15,2-15,32
+CIT  160,CIT  160-04,"Barzee, Rex",Day School (DAY),SP,2-,2,152,15,SP15,29
+CIT  160,CIT  160-05,"Wells, Daniel",Online (ONLN),SP,2-,2,152,15,SP15,30
+CIT  160,CIT  160-06,"Ashford, Jed",Online (ONLN),SP,2-,2,152,15,SP15,30
+CIT  160,CIT  160-07,"Ashford, Jed",Online (ONLN),SP,2-,2,152,15,SP15,30
+CIT  160,CIT  160-08,"Wells, Daniel",Online (ONLN),SP,2-,2,152,15,SP15,30
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,35
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,30
+CIT  225,CIT  225-05,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,26
+CIT  230,CIT  230-01,"Thompson, Shane",Day School (DAY),SP,2-,2,152,15,2-15,27
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),SP,2-,2,152,15,2-15,28
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),SP,2-,2,152,15,2-15,21
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),SP,2-,2,152,15,2-15,27
+CIT  230,CIT  230-05,"Maire, Craig",Online (ONLN),SP,2-,2,152,15,2-15,25
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),SP,2-,2,152,15,2-15,25
+CIT  230,CIT  230-07,"Horton, Rob",Online (ONLN),SP,2-,2,152,15,2-15,20
+CIT  230,CIT  230-08,"Cheney, Paul",Online (ONLN),SP,2-,2,152,15,2-15,21
+CIT  230,CIT  230-09,"Thayne, Tim",Online (ONLN),SP,2-,2,152,15,2-15,21
+CIT  230,CIT  230-10,"Marsden, Adam",Online (ONLN),SP,2-,2,152,15,2-15,22
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,152,15,2-15,12
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),SP,2-,2,152,15,2-15,29
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),SP,2-,2,152,15,2-15,18
+CIT  240,CIT  240-04,"Armstrong, Bradley",Online (ONLN),SP,2-,2,152,15,2-15,36
+CIT  240,CIT  240-05,"Armstrong, Bradley",Online (ONLN),SP,2-,2,152,15,2-15,38
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,152,15,2-15,34
+CIT  241,CIT  241-02,"Belk, Nathan",Online (ONLN),SP,2-,2,152,15,2-15,38
+CIT  260,CIT  260-01,"Olaveson, Mark",Day School (DAY),SP,2-,2,152,15,2-15,26
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,152,15,2-15,26
+CIT  260,CIT  260-03,"Wester, Aaron",Online (ONLN),SP,2-,2,152,15,2-15,23
+CIT  260,CIT  260-04,"Jackson, Kent",Online (ONLN),SP,2-,2,152,15,2-15,25
+CIT  260,CIT  260-06,"Jackson, Kent",Day School (DAY),SP,2-,2,152,15,2-15,15
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),SP,2-,2,152,15,2-15,17
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),SP,2-,2,152,15,2-15,28
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,35
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),SP,2-,2,152,15,2-15,27
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,31
+CIT  325,CIT  325-03,"Hepworth, Chris",Online (ONLN),SP,2-,2,152,15,2-15,15
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),SP,2-,2,152,15,2-15,19
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),SP,2-,2,152,15,2-15,13
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),SP,2-,2,152,15,2-15,23
+CIT  336,CIT  336-04,"Woods, Bonny",Online (ONLN),SP,2-,2,152,15,2-15,24
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),SP,2-,2,152,15,2-15,11
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),SP,2-,2,152,15,2-15,19
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),SP,2-,2,152,15,2-15,33
+CIT  352,CIT  352-02,"Clements, William",Online (ONLN),SP,2-,2,152,15,2-15,23
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),SP,2-,2,152,15,2-15,20
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),SP,2-,2,152,15,2-15,25
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),SP,2-,2,152,15,2-15,23
+CIT  360,CIT  360-03,"Tuckett, Troy",Online (ONLN),SP,2-,2,152,15,2-15,20
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),SP,2-,2,152,15,2-15,35
+CIT  370,CIT  370-03,"Snider, David",Online (ONLN),SP,2-,2,152,15,2-15,33
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,152,15,2-15,26
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),SP,2-,2,152,15,2-15,24
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),SP,2-,2,152,15,2-15,12
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,152,15,2-15,12
+CIT  470,CIT  470-01,"Sessions, Shaun",Day School (DAY),SP,2-,2,152,15,2-15,10
+CIT  490,CIT  490-09,"Godfrey, Kory",Day School (DAY),SP,2-,2,152,15,2-15,4
+CIT  490,CIT  490-10,"Godfrey, Kory",Online (ONLN),SP,2-,2,152,15,2-15,1
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),SP,2-,2,152,15,2-15,23
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),SP,2-,2,152,15,2-15,3
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),SP,2-,2,152,15,2-15,23
+CIT  499R,CIT  499R-05,"McLaughlin, Michael",Day School (DAY),SP,2-,2,152,15,2-15,7
+WDD  100,WDD  100-01,"Adelsperger, Trish",Online (ONLN),SP,2-,2,152,15,2-15,45
+WDD  100,WDD  100-02,"Sheffield, Travis",Online (ONLN),SP,2-,2,152,15,2-15,43
+WDD  100,WDD  100-06,"Thompson, Shane",Day School (DAY),SP,2-,2,152,15,2-15,21
+WDD  100,WDD  100-07,"Thompson, Shane",Day School (DAY),SP,2-,2,152,15,2-15,19
+WDD  100,WDD  100-08,"Thompson, Shane",Day School (DAY),SP,2-,2,152,15,2-15,18
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),SP,2-,2,152,15,2-15,5
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),SP,2-,2,152,15,2-15,8
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),SP,2-,2,152,15,2-15,3
+CIT  110,CIT  110-01,"Morring, Brent",Day School (DAY),FA,3-,3,153,15,3-15,28
+CIT  110,CIT  110-02,"Duffy, Ted",Online (ONLN),FA,3-,3,153,15,FA15,50
+CIT  110,CIT  110-04,"Derricott, Tony",Online (ONLN),FA,3-,3,153,15,3-15,50
+CIT  110,CIT  110-05,"Robertson, Shawna",Online (ONLN),FA,3-,3,153,15,3-15,50
+CIT  110,CIT  110-06,"Cook, Stefani",Online (ONLN),FA,3-,3,153,15,3-15,50
+CIT  110,CIT  110-07,"Boushnak, Fara",Online (ONLN),FA,3-,3,153,15,3-15,49
+CIT  110,CIT  110-08,"Robertson, Shawna",Online (ONLN),FA,3-,3,153,15,3-15,50
+CIT  110,CIT  110-09,"Knight, Tanya",Online (ONLN),FA,3-,3,153,15,3-15,49
+CIT  110,CIT  110-10,"Morring, Brent",Day School (DAY),FA,3-,3,153,15,3-15,29
+CIT  111,CIT  111-01,"Barzee, Rex",Day School (DAY),FA,3-,3,153,15,3-15,29
+CIT  111,CIT  111-02,"Johnson, Eric",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  111,CIT  111-03,"Hughes, Joel",Online (ONLN),FA,3-,3,153,15,3-15,27
+CIT  111,CIT  111-04,"Voter, Jonathan",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  111,CIT  111-07,"Morring, Brent",Day School (DAY),FA,3-,3,153,15,3-15,21
+CIT  111,CIT  111-08,"Davis, Darin",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  111,CIT  111-09,"Tidwell, Leon",Online (ONLN),FA,3-,3,153,15,3-15,18
+CIT  160,CIT  160-01,"Hayes, Adam",Day School (DAY),FA,3-,3,153,15,3-15,30
+CIT  160,CIT  160-02,"Barzee, Rex",Day School (DAY),FA,3-,3,153,15,3-15,33
+CIT  160,CIT  160-03,"Barzee, Rex",Day School (DAY),FA,3-,3,153,15,3-15,30
+CIT  160,CIT  160-04,"Wells, Daniel",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-05,"Ashford, Jed",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-06,"Marsden, Adam",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-07,"Kidd, Dave",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-08,"Couraud, Jason",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-09,"Simpson, Michael",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-10,"Blazzard, Jason",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-11,"Reading, John",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-12,"Hayes, Adam",Day School (DAY),FA,3-,3,153,15,FA15,35
+CIT  160,CIT  160-13,"Wells, Daniel",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-14,"Williams, Jeff",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  160,CIT  160-15,"Vest, Rebecca",Online (ONLN),FA,3-,3,153,15,FA15,30
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,153,15,3-15,33
+CIT  225,CIT  225-02,"Jackson, Kent",Day School (DAY),FA,3-,3,153,15,3-15,32
+CIT  225,CIT  225-04,"McLaughlin, Michael",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  225,CIT  225-05,"Bowden, Casey",Online (ONLN),FA,3-,3,153,15,3-15,12
+CIT  225,CIT  225-06,"Crook, Tanner",Online (ONLN),FA,3-,3,153,15,3-15,10
+CIT  230,CIT  230-01,"Somsen, Randy",Day School (DAY),FA,3-,3,153,15,3-15,23
+CIT  230,CIT  230-02,"Somsen, Randy",Day School (DAY),FA,3-,3,153,15,3-15,28
+CIT  230,CIT  230-04,"Thompson, Shane",Day School (DAY),FA,3-,3,153,15,3-15,27
+CIT  230,CIT  230-05,"Finch, Ted",Online (ONLN),FA,3-,3,153,15,3-15,25
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),FA,3-,3,153,15,3-15,25
+CIT  230,CIT  230-07,"Horton, Rob",Online (ONLN),FA,3-,3,153,15,3-15,25
+CIT  230,CIT  230-08,"Maire, Craig",Online (ONLN),FA,3-,3,153,15,3-15,25
+CIT  230,CIT  230-09,"Cheney, Paul",Online (ONLN),FA,3-,3,153,15,3-15,22
+CIT  230,CIT  230-10,"Thayne, Tim",Online (ONLN),FA,3-,3,153,15,3-15,20
+CIT  230,CIT  230-11,"Blazzard, Jason",Online (ONLN),FA,3-,3,153,15,3-15,23
+CIT  230,CIT  230-12,"Blazzard, Jason",Online (ONLN),FA,3-,3,153,15,3-15,25
+CIT  230,CIT  230-13,"Somsen, Randy",Day School (DAY),FA,3-,3,153,15,3-15,20
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,153,15,3-15,17
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),FA,3-,3,153,15,3-15,28
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),FA,3-,3,153,15,3-15,28
+CIT  240,CIT  240-04,"Armstrong, Bradley",Online (ONLN),FA,3-,3,153,15,3-15,39
+CIT  240,CIT  240-05,"Bell, Scott",Online (ONLN),FA,3-,3,153,15,3-15,38
+CIT  240,CIT  240-06,"Belk, Nathan",Online (ONLN),FA,3-,3,153,15,3-15,39
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,153,15,3-15,35
+CIT  241,CIT  241-02,"Belk, Nathan",Online (ONLN),FA,3-,3,153,15,3-15,40
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),FA,3-,3,153,15,3-15,22
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),FA,3-,3,153,15,3-15,7
+CIT  260,CIT  260-03,"Gilliland, Daniel",Online (ONLN),FA,3-,3,153,15,3-15,23
+CIT  260,CIT  260-04,"Jackson, Kent",Online (ONLN),FA,3-,3,153,15,3-15,23
+CIT  260,CIT  260-05,"Jones, Craig",Online (ONLN),FA,3-,3,153,15,3-15,23
+CIT  260,CIT  260-06,"Olaveson, Mark",Day School (DAY),FA,3-,3,153,15,3-15,27
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),FA,3-,3,153,15,3-15,24
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),FA,3-,3,153,15,3-15,36
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,153,15,3-15,38
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),FA,3-,3,153,15,3-15,27
+CIT  301C,CIT  301C-03,"Rigby, Steven",Day School (DAY),FA,3-,3,153,15,3-15,37
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,153,15,3-15,39
+CIT  325,CIT  325-02,"Hepworth, Chris",Online (ONLN),FA,3-,3,153,15,3-15,16
+CIT  336,CIT  336-03,"Woods, Bonny",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  336,CIT  336-04,"Neville, Michael",Online (ONLN),FA,3-,3,153,15,3-15,21
+CIT  336,CIT  336-05,"Neville, Michael",Online (ONLN),FA,3-,3,153,15,3-15,16
+CIT  336,CIT  336-06,"Woods, Bonny",Online (ONLN),FA,3-,3,153,15,3-15,11
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),FA,3-,3,153,15,3-15,10
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),FA,3-,3,153,15,3-15,10
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,153,15,3-15,34
+CIT  352,CIT  352-02,"Clements, William",Online (ONLN),FA,3-,3,153,15,3-15,24
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),FA,3-,3,153,15,3-15,23
+CIT  353,CIT  353-03,"Rigby, Steven",Day School (DAY),FA,3-,3,153,15,3-15,12
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),FA,3-,3,153,15,3-15,24
+CIT  360,CIT  360-03,"Tuckett, Troy",Online (ONLN),FA,3-,3,153,15,3-15,22
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),FA,3-,3,153,15,3-15,20
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),FA,3-,3,153,15,3-15,30
+CIT  370,CIT  370-03,"Snider, David",Online (ONLN),FA,3-,3,153,15,3-15,33
+CIT  370,CIT  370-04,"Higbee, Joe",Online (ONLN),FA,3-,3,153,15,3-15,29
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,153,15,3-15,20
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,153,15,3-15,19
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),FA,3-,3,153,15,3-15,28
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,153,15,3-15,11
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),FA,3-,3,153,15,3-15,13
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),FA,3-,3,153,15,3-15,5
+CIT  460,CIT  460-01,"Jackson, Kent",Day School (DAY),FA,3-,3,153,15,3-15,4
+CIT  465,CIT  465-01,"Barney, Lee",Day School (DAY),FA,3-,3,153,15,3-15,8
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,153,15,3-15,10
+CIT  490,CIT  490-05,"Godfrey, Kory",Online (ONLN),FA,3-,3,153,15,3-15,1
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),FA,3-,3,153,15,3-15,29
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),FA,3-,3,153,15,3-15,9
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),FA,3-,3,153,15,3-15,25
+CIT  499R,CIT  499R-01,"Rigby, Steven",Day School (DAY),FA,3-,3,153,15,3-15,2
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),FA,3-,3,153,15,3-15,29
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),FA,3-,3,153,15,3-15,29
+WDD  100,WDD  100-03,"Thompson, Shane",Day School (DAY),FA,3-,3,153,15,3-15,24
+WDD  100,WDD  100-04,"Karl, Eric",Online (ONLN),FA,3-,3,153,15,3-15,44
+WDD  100,WDD  100-05,"Adelsperger, Trish",Online (ONLN),FA,3-,3,153,15,3-15,42
+WDD  100,WDD  100-06,"Sheffield, Travis",Online (ONLN),FA,3-,3,153,15,3-15,42
+WDD  100,WDD  100-07,"Adelsperger, Trish",Online (ONLN),FA,3-,3,153,15,3-15,43
+WDD  100,WDD  100-08,"Sheffield, Travis",Online (ONLN),FA,3-,3,153,15,3-15,41
+WDD  100,WDD  100-10,"Adelsperger, Trish",Online (ONLN),FA,3-,3,153,15,3-15,34
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),FA,3-,3,153,15,3-15,11
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),FA,3-,3,153,15,3-15,5
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),FA,3-,3,153,15,3-15,6
+CIT  110,CIT  110-01,"Duffy, Ted",Online (ONLN),SS,SU-,SU-,15SU-,15,SU-15,31
+CIT  110,CIT  110-02,"Derricott, Tony",Online (ONLN),SS,SU-,SU-,15SU-,15,SU-15,26
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),SS,SU-,SU-,15SU-,15,SU-15,3
+CIT  110,CIT  110-03,"Somsen, Randy",Day School (DAY),WI,1-,1,161,16,1-16,34
+CIT  110,CIT  110-04,"Robertson, Shawna",Online (ONLN),WI,1-,1,161,16,1-16,50
+CIT  110,CIT  110-05,"Boushnak, Fara",Online (ONLN),WI,1-,1,161,16,1-16,49
+CIT  110,CIT  110-06,"Duffy, Ted",Online (ONLN),WI,1-,1,161,16,1-16,48
+CIT  110,CIT  110-07,"Derricott, Tony",Online (ONLN),WI,1-,1,161,16,1-16,50
+CIT  110,CIT  110-08,"Cook, Stefani",Online (ONLN),WI,1-,1,161,16,1-16,48
+CIT  110,CIT  110-09,"Knight, Tanya",Online (ONLN),WI,1-,1,161,16,1-16,50
+CIT  110,CIT  110-10,"Boushnak, Fara",Online (ONLN),WI,1-,1,161,16,1-16,48
+CIT  111,CIT  111-01,"Morring, Brent",Day School (DAY),WI,1-,1,161,16,1-16,25
+CIT  111,CIT  111-02,"Morring, Brent",Day School (DAY),WI,1-,1,161,16,1-16,31
+CIT  111,CIT  111-03,"Morring, Brent",Day School (DAY),WI,1-,1,161,16,1-16,24
+CIT  111,CIT  111-04,"Hughes, Joel",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  111,CIT  111-05,"Johnson, Eric",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  111,CIT  111-06,"Davis, Darin",Online (ONLN),WI,1-,1,161,16,1-16,28
+CIT  111,CIT  111-07,"Tidwell, Leon",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  160,CIT  160-01,"Barney, Lee",Day School (DAY),WI,1-,1,161,16,1-16,36
+CIT  160,CIT  160-02,"Barzee, Rex",Day School (DAY),WI,1-,1,161,16,1-16,36
+CIT  160,CIT  160-03,"Somsen, Randy",Day School (DAY),WI,1-,1,161,16,1-16,31
+CIT  160,CIT  160-05,"Couraud, Jason",Online (ONLN),WI,1-,1,161,16,WI16,30
+CIT  160,CIT  160-06,"Wells, Daniel",Online (ONLN),WI,1-,1,161,16,WI16,30
+CIT  160,CIT  160-07,"Ashford, Jed",Online (ONLN),WI,1-,1,161,16,WI16,30
+CIT  160,CIT  160-08,"Kidd, Dave",Online (ONLN),WI,1-,1,161,16,WI16,28
+CIT  160,CIT  160-10,"Williams, Jeff",Online (ONLN),WI,1-,1,161,16,WI16,25
+CIT  160,CIT  160-11,"Reading, John",Online (ONLN),WI,1-,1,161,16,WI16,29
+CIT  160,CIT  160-12,"Simpson, Michael",Online (ONLN),WI,1-,1,161,16,WI16,29
+CIT  160,CIT  160-13,"Vest, Rebecca",Online (ONLN),WI,1-,1,161,16,WI16,29
+CIT  160,CIT  160-14,"Blazzard, Jason",Online (ONLN),WI,1-,1,161,16,WI16,28
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,161,16,1-16,35
+CIT  225,CIT  225-02,"Morring, Brent",Day School (DAY),WI,1-,1,161,16,1-16,28
+CIT  225,CIT  225-03,"Jackson, Kent",Day School (DAY),WI,1-,1,161,16,1-16,8
+CIT  225,CIT  225-04,"Bowden, Casey",Online (ONLN),WI,1-,1,161,16,1-16,26
+CIT  225,CIT  225-05,"Crook, Tanner",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  225,CIT  225-06,"Bowden, Casey",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  225,CIT  225-07,"Crook, Tanner",Online (ONLN),WI,1-,1,161,16,1-16,26
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,161,16,1-16,34
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),WI,1-,1,161,16,1-16,10
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),WI,1-,1,161,16,1-16,26
+CIT  230,CIT  230-05,"Thompson, Shane",Day School (DAY),WI,1-,1,161,16,1-16,20
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  230,CIT  230-07,"Maire, Craig",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  230,CIT  230-08,"Thayne, Tim",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  230,CIT  230-09,"Cheney, Paul",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  230,CIT  230-10,"Horton, Rob",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  230,CIT  230-11,"Daley, Kim",Online (ONLN),WI,1-,1,161,16,1-16,23
+CIT  230,CIT  230-12,"Blazzard, Jason",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  230,CIT  230-13,"Blazzard, Jason",Online (ONLN),WI,1-,1,161,16,1-16,23
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,161,16,1-16,16
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),WI,1-,1,161,16,1-16,30
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),WI,1-,1,161,16,1-16,30
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,161,16,1-16,38
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),WI,1-,1,161,16,1-16,17
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,161,16,1-16,25
+CIT  260,CIT  260-04,"Jackson, Kent",Day School (DAY),WI,1-,1,161,16,1-16,18
+CIT  260,CIT  260-05,"Gilliland, Daniel",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  260,CIT  260-06,"Blazzard, Jason",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  260,CIT  260-07,"Jones, Craig",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  260,CIT  260-08,"Meyers, Sterling",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),WI,1-,1,161,16,1-16,14
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),WI,1-,1,161,16,1-16,44
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,161,16,1-16,38
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),WI,1-,1,161,16,1-16,27
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,161,16,1-16,30
+CIT  325,CIT  325-02,"Hepworth, Chris",Online (ONLN),WI,1-,1,161,16,1-16,19
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,161,16,1-16,22
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,161,16,1-16,12
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  336,CIT  336-04,"Robertson, Blaine",Online (ONLN),WI,1-,1,161,16,1-16,22
+CIT  336,CIT  336-05,"Neville, Michael",Online (ONLN),WI,1-,1,161,16,1-16,24
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),WI,1-,1,161,16,1-16,13
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),WI,1-,1,161,16,1-16,22
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),WI,1-,1,161,16,1-16,9
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,161,16,1-16,29
+CIT  352,CIT  352-03,"Clements, William",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),WI,1-,1,161,16,1-16,23
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),WI,1-,1,161,16,1-16,25
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),WI,1-,1,161,16,1-16,25
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),WI,1-,1,161,16,1-16,43
+CIT  370,CIT  370-02,"Ericson, Art",Day School (DAY),WI,1-,1,161,16,1-16,35
+CIT  370,CIT  370-03,"Snider, David",Online (ONLN),WI,1-,1,161,16,1-16,34
+CIT  370,CIT  370-04,"Higbee, Joe",Online (ONLN),WI,1-,1,161,16,1-16,29
+CIT  370,CIT  370-05,"Ericson, Art",Day School (DAY),WI,1-,1,161,16,1-16,8
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,161,16,1-16,24
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),WI,1-,1,161,16,1-16,29
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),WI,1-,1,161,16,1-16,28
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,161,16,1-16,9
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),WI,1-,1,161,16,1-16,16
+CIT  465,CIT  465-01,"Barney, Lee",Day School (DAY),WI,1-,1,161,16,1-16,6
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),WI,1-,1,161,16,1-16,18
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,161,16,1-16,7
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),WI,1-,1,161,16,1-16,27
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),WI,1-,1,161,16,1-16,7
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),WI,1-,1,161,16,1-16,21
+CIT  499R,CIT  499R-10,"McLaughlin, Michael",Day School (DAY),WI,1-,1,161,16,1-16,1
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),WI,1-,1,161,16,1-16,30
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),WI,1-,1,161,16,1-16,30
+WDD  100,WDD  100-03,"Thompson, Shane",Day School (DAY),WI,1-,1,161,16,1-16,27
+WDD  100,WDD  100-04,"Adelsperger, Trish",Online (ONLN),WI,1-,1,161,16,1-16,45
+WDD  100,WDD  100-05,"Sheffield, Travis",Online (ONLN),WI,1-,1,161,16,1-16,45
+WDD  100,WDD  100-06,"Adelsperger, Trish",Online (ONLN),WI,1-,1,161,16,1-16,45
+WDD  100,WDD  100-07,"Karl, Eric",Online (ONLN),WI,1-,1,161,16,1-16,44
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),WI,1-,1,161,16,1-16,11
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),WI,1-,1,161,16,1-16,4
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),WI,1-,1,161,16,1-16,7
+CIT  110,CIT  110-03,"Robertson, Shawna",Online (ONLN),SP,2-,2,162,16,2-16,50
+CIT  110,CIT  110-04,"Boushnak, Fara",Online (ONLN),SP,2-,2,162,16,2-16,50
+CIT  110,CIT  110-05,"Knight, Tanya",Online (ONLN),SP,2-,2,162,16,2-16,50
+CIT  110,CIT  110-06,"Knight, Tanya",Online (ONLN),SP,2-,2,162,16,2-16,49
+CIT  110,CIT  110-07,"Cook, Stefani",Online (ONLN),SP,2-,2,162,16,2-16,47
+CIT  110,CIT  110-08,"Derricott, Tony",Online (ONLN),SP,2-,2,162,16,2-16,50
+CIT  110,CIT  110-09,"Boushnak, Fara",Online (ONLN),SP,2-,2,162,16,2-16,47
+CIT  111,CIT  111-02,"Morring, Brent",Day School (DAY),SP,2-,2,162,16,2-16,26
+CIT  111,CIT  111-03,"Morring, Brent",Day School (DAY),SP,2-,2,162,16,2-16,18
+CIT  111,CIT  111-04,"Hughes, Joel",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  111,CIT  111-05,"Davis, Darin",Online (ONLN),SP,2-,2,162,16,2-16,29
+CIT  111,CIT  111-06,"Adling, Robert",Online (ONLN),SP,2-,2,162,16,2-16,27
+CIT  111,CIT  111-07,"Tidwell, Leon",Online (ONLN),SP,2-,2,162,16,2-16,30
+CIT  160,CIT  160-01,"Barzee, Rex",Day School (DAY),SP,2-,2,162,16,2-16,30
+CIT  160,CIT  160-02,"Barney, Lee",Day School (DAY),SP,2-,2,162,16,2-16,13
+CIT  160,CIT  160-03,"Somsen, Randy",Day School (DAY),SP,2-,2,162,16,2-16,29
+CIT  160,CIT  160-04,"Hayes, Adam",Day School (DAY),SP,2-,2,162,16,SP16,25
+CIT  160,CIT  160-05,"Wells, Daniel",Online (ONLN),SP,2-,2,162,16,SP16,27
+CIT  160,CIT  160-06,"Williams, Jeff",Online (ONLN),SP,2-,2,162,16,SP16,26
+CIT  160,CIT  160-07,"Kidd, Dave",Online (ONLN),SP,2-,2,162,16,SP16,29
+CIT  160,CIT  160-08,"Reading, John",Online (ONLN),SP,2-,2,162,16,SP16,28
+CIT  160,CIT  160-09,"Simpson, Michael",Online (ONLN),SP,2-,2,162,16,SP16,27
+CIT  160,CIT  160-10,"Blazzard, Jason",Online (ONLN),SP,2-,2,162,16,SP16,28
+CIT  160,CIT  160-11,"Hayes, Adam",Day School (DAY),SP,2-,2,162,16,SP16,20
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,162,16,2-16,28
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,162,16,2-16,25
+CIT  225,CIT  225-03,"Morring, Brent",Day School (DAY),SP,2-,2,162,16,2-16,30
+CIT  225,CIT  225-04,"Bowden, Casey",Online (ONLN),SP,2-,2,162,16,2-16,24
+CIT  225,CIT  225-05,"Crook, Tanner",Online (ONLN),SP,2-,2,162,16,2-16,28
+CIT  225,CIT  225-06,"Voter, Jonathan",Online (ONLN),SP,2-,2,162,16,2-16,26
+CIT  225,CIT  225-07,"Marlowe, John",Online (ONLN),SP,2-,2,162,16,2-16,22
+CIT  225,CIT  225-08,"Bowden, Casey",Online (ONLN),SP,2-,2,162,16,2-16,22
+CIT  225,CIT  225-09,"Bell, Scott",Online (ONLN),SP,2-,2,162,16,2-16,20
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),SP,2-,2,162,16,2-16,27
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),SP,2-,2,162,16,2-16,24
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),SP,2-,2,162,16,2-16,6
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),SP,2-,2,162,16,2-16,12
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),SP,2-,2,162,16,2-16,17
+CIT  230,CIT  230-07,"Maire, Craig",Online (ONLN),SP,2-,2,162,16,2-16,25
+CIT  230,CIT  230-08,"Cheney, Paul",Online (ONLN),SP,2-,2,162,16,2-16,20
+CIT  230,CIT  230-09,"Horton, Rob",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  230,CIT  230-10,"Thayne, Tim",Online (ONLN),SP,2-,2,162,16,2-16,18
+CIT  230,CIT  230-11,"Daley, Kim",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  230,CIT  230-13,"Blazzard, Jason",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  230,CIT  230-14,"Blazzard, Jason",Online (ONLN),SP,2-,2,162,16,2-16,20
+CIT  240,CIT  240-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,162,16,2-16,6
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),SP,2-,2,162,16,2-16,25
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),SP,2-,2,162,16,2-16,21
+CIT  240,CIT  240-07,"Armstrong, Bradley",Online (ONLN),SP,2-,2,162,16,2-16,29
+CIT  240,CIT  240-08,"Godfrey, Kory",Online (ONLN),SP,2-,2,162,16,2-16,30
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,162,16,2-16,37
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),SP,2-,2,162,16,2-16,18
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,162,16,2-16,14
+CIT  260,CIT  260-03,"Jackson, Kent",Day School (DAY),SP,2-,2,162,16,2-16,15
+CIT  260,CIT  260-05,"Gilliland, Daniel",Online (ONLN),SP,2-,2,162,16,2-16,26
+CIT  260,CIT  260-06,"Jones, Craig",Online (ONLN),SP,2-,2,162,16,2-16,26
+CIT  260,CIT  260-08,"Jackson, Spencer",Online (ONLN),SP,2-,2,162,16,2-16,27
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),SP,2-,2,162,16,2-16,16
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),SP,2-,2,162,16,2-16,45
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,162,16,2-16,25
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),SP,2-,2,162,16,2-16,21
+CIT  262,CIT  262-03,"Hopkins, Nikki",Online (ONLN),SP,2-,2,162,16,2-16,18
+CIT  298,CIT  298-01,"Rigby, Steven",Distant/Off-Camp (DIST),SP,2-,2,162,16,2-16,1
+CIT  298,CIT  298-03,"Thompson, Shane",Distant/Off-Camp (DIST),SP,2-,2,162,16,2-16,1
+CIT  301B,CIT  301B-01,"Thompson, Shane",Day School (DAY),SP,2-,2,162,16,2-16,7
+CIT  301C,CIT  301C-01,"Blazzard, Jason",Online (ONLN),SP,2-,2,162,16,2-16,9
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,162,16,2-16,31
+CIT  325,CIT  325-02,"Hepworth, Chris",Online (ONLN),SP,2-,2,162,16,2-16,30
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),SP,2-,2,162,16,2-16,25
+CIT  336,CIT  336-02,"Neville, Michael",Online (ONLN),SP,2-,2,162,16,2-16,22
+CIT  336,CIT  336-03,"Woods, Bonny",Online (ONLN),SP,2-,2,162,16,2-16,21
+CIT  336,CIT  336-04,"Couraud, Jason",Online (ONLN),SP,2-,2,162,16,2-16,25
+CIT  336,CIT  336-05,"Robertson, Blaine",Day School (DAY),SP,2-,2,162,16,2-16,12
+CIT  341,CIT  341-01,"Ericson, Art",Day School (DAY),SP,2-,2,162,16,2-16,8
+CIT  345,CIT  345-01,"Ericson, Art",Day School (DAY),SP,2-,2,162,16,2-16,13
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),SP,2-,2,162,16,2-16,9
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,162,16,2-16,16
+CIT  352,CIT  352-03,"Vanderhoof, Brian",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  353,CIT  353-01,"Rigby, Steven",Day School (DAY),SP,2-,2,162,16,2-16,26
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),SP,2-,2,162,16,2-16,23
+CIT  353,CIT  353-03,"Wickern, Josh",Online (ONLN),SP,2-,2,162,16,2-16,19
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),SP,2-,2,162,16,2-16,28
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),SP,2-,2,162,16,2-16,45
+CIT  370,CIT  370-01,"Ericson, Art",Day School (DAY),SP,2-,2,162,16,2-16,31
+CIT  370,CIT  370-02,"Snider, David",Online (ONLN),SP,2-,2,162,16,2-16,33
+CIT  370,CIT  370-03,"Higbee, Joe",Online (ONLN),SP,2-,2,162,16,2-16,35
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,162,16,2-16,25
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),SP,2-,2,162,16,2-16,30
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),SP,2-,2,162,16,2-16,35
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),SP,2-,2,162,16,2-16,15
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),SP,2-,2,162,16,2-16,6
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),SP,2-,2,162,16,2-16,9
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,162,16,2-16,3
+CIT  490,CIT  490-02,"Godfrey, Kory",Online (ONLN),SP,2-,2,162,16,2-16,5
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),SP,2-,2,162,16,2-16,20
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),SP,2-,2,162,16,2-16,12
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),SP,2-,2,162,16,2-16,22
+CIT  499R,CIT  499R-01,"Ericson, Art",Day School (DAY),SP,2-,2,162,16,2-16,1
+CIT  499R,CIT  499R-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,162,16,2-16,14
+CIT  499R,CIT  499R-03,"Godfrey, Kory",Day School (DAY),SP,2-,2,162,16,2-16,2
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),SP,2-,2,162,16,2-16,21
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),SP,2-,2,162,16,2-16,15
+WDD  100,WDD  100-03,"Thompson, Shane",Day School (DAY),SP,2-,2,162,16,2-16,13
+WDD  100,WDD  100-04,"Adelsperger, Trish",Online (ONLN),SP,2-,2,162,16,2-16,40
+WDD  100,WDD  100-05,"Hancock, Steve",Online (ONLN),SP,2-,2,162,16,2-16,40
+WDD  100,WDD  100-06,"Hall, Chris",Online (ONLN),SP,2-,2,162,16,2-16,38
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),SP,2-,2,162,16,2-16,11
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),SP,2-,2,162,16,2-16,7
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),SP,2-,2,162,16,2-16,24
+CIT  110,CIT  110-04,"Robertson, Shawna",Online (ONLN),FA,3-,3,163,16,3-16,49
+CIT  110,CIT  110-05,"Boushnak, Fara",Online (ONLN),FA,3-,3,163,16,3-16,47
+CIT  110,CIT  110-06,"Cook, Stefani",Online (ONLN),FA,3-,3,163,16,3-16,46
+CIT  110,CIT  110-07,"Knight, Tanya",Online (ONLN),FA,3-,3,163,16,3-16,49
+CIT  110,CIT  110-08,"Robertson, Shawna",Online (ONLN),FA,3-,3,163,16,3-16,42
+CIT  110,CIT  110-09,"Boushnak, Fara",Online (ONLN),FA,3-,3,163,16,3-16,42
+CIT  110,CIT  110-10,"Derricott, Tony",Online (ONLN),FA,3-,3,163,16,3-16,48
+CIT  110,CIT  110-11,"Stimpson, Jacob",Online (ONLN),FA,3-,3,163,16,3-16,46
+CIT  110,CIT  110-12,"Assmus, Jerah",Online (ONLN),FA,3-,3,163,16,3-16,46
+CIT  111,CIT  111-02,"Morring, Brent",Day School (DAY),FA,3-,3,163,16,3-16,30
+CIT  111,CIT  111-03,"Morring, Brent",Day School (DAY),FA,3-,3,163,16,3-16,30
+CIT  111,CIT  111-04,"Davis, Darin",Online (ONLN),FA,3-,3,163,16,3-16,30
+CIT  111,CIT  111-05,"Tidwell, Leon",Online (ONLN),FA,3-,3,163,16,3-16,30
+CIT  111,CIT  111-07,"Tidwell, Leon",Online (ONLN),FA,3-,3,163,16,3-16,30
+CIT  111,CIT  111-08,"Hughes, Joel",Online (ONLN),FA,3-,3,163,16,3-16,29
+CIT  160,CIT  160-01,"Barzee, Rex",Day School (DAY),FA,3-,3,163,16,3-16,30
+CIT  160,CIT  160-03,"Somsen, Randy",Day School (DAY),FA,3-,3,163,16,3-16,32
+CIT  160,CIT  160-04,"Barney, Lee",Day School (DAY),FA,3-,3,163,16,FA16,30
+CIT  160,CIT  160-05,"Hayes, Adam",Day School (DAY),FA,3-,3,163,16,FA16,29
+CIT  160,CIT  160-06,"Hayes, Adam",Day School (DAY),FA,3-,3,163,16,FA16,34
+CIT  160,CIT  160-07,"Williams, Jeff",Online (ONLN),FA,3-,3,163,16,FA16,27
+CIT  160,CIT  160-08,"Kidd, Dave",Online (ONLN),FA,3-,3,163,16,FA16,28
+CIT  160,CIT  160-09,"Reading, John",Online (ONLN),FA,3-,3,163,16,FA16,29
+CIT  160,CIT  160-10,"Wells, Daniel",Online (ONLN),FA,3-,3,163,16,FA16,29
+CIT  160,CIT  160-11,"Simpson, Michael",Online (ONLN),FA,3-,3,163,16,FA16,30
+CIT  160,CIT  160-12,"Couraud, Jason",Online (ONLN),FA,3-,3,163,16,FA16,30
+CIT  160,CIT  160-14,"Wells, Daniel",Online (ONLN),FA,3-,3,163,16,FA16,28
+CIT  160,CIT  160-15,"Blazzard, Jason",Online (ONLN),FA,3-,3,163,16,FA16,31
+CIT  160,CIT  160-16,"Marsden, Adam",Online (ONLN),FA,3-,3,163,16,FA16,31
+CIT  160,CIT  160-17,"Pratt, Jeremy",Online (ONLN),FA,3-,3,163,16,FA16,30
+CIT  225,CIT  225-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,163,16,3-16,29
+CIT  225,CIT  225-05,"Morring, Brent",Day School (DAY),FA,3-,3,163,16,3-16,32
+CIT  225,CIT  225-06,"Voter, Jonathan",Online (ONLN),FA,3-,3,163,16,3-16,26
+CIT  225,CIT  225-07,"Bowden, Casey",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  225,CIT  225-08,"Crook, Tanner",Online (ONLN),FA,3-,3,163,16,3-16,29
+CIT  225,CIT  225-09,"Bowden, Casey",Online (ONLN),FA,3-,3,163,16,3-16,26
+CIT  225,CIT  225-11,"Bell, Scott",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  225,CIT  225-12,"Muffler, Rick",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,163,16,3-16,20
+CIT  230,CIT  230-02,"Robertson, Blaine",Day School (DAY),FA,3-,3,163,16,3-16,29
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),FA,3-,3,163,16,3-16,18
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),FA,3-,3,163,16,3-16,13
+CIT  230,CIT  230-06,"Cheney, Paul",Online (ONLN),FA,3-,3,163,16,3-16,23
+CIT  230,CIT  230-08,"Odom, Mike",Online (ONLN),FA,3-,3,163,16,3-16,20
+CIT  230,CIT  230-09,"Horton, Rob",Online (ONLN),FA,3-,3,163,16,3-16,23
+CIT  230,CIT  230-10,"Thayne, Tim",Online (ONLN),FA,3-,3,163,16,3-16,22
+CIT  230,CIT  230-11,"Blazzard, Jason",Online (ONLN),FA,3-,3,163,16,3-16,24
+CIT  230,CIT  230-12,"Blazzard, Jason",Online (ONLN),FA,3-,3,163,16,3-16,24
+CIT  230,CIT  230-13,"Campbell, Katherine",Online (ONLN),FA,3-,3,163,16,3-16,24
+CIT  230,CIT  230-14,"Giles, David",Online (ONLN),FA,3-,3,163,16,3-16,22
+CIT  230,CIT  230-16,"Maire, Craig",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  240,CIT  240-03,"Armstrong, Bradley",Day School (DAY),FA,3-,3,163,16,3-16,29
+CIT  240,CIT  240-05,"Rigby, Steven",Day School (DAY),FA,3-,3,163,16,3-16,29
+CIT  240,CIT  240-06,"Armstrong, Bradley",Online (ONLN),FA,3-,3,163,16,3-16,29
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,163,16,3-16,33
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),FA,3-,3,163,16,3-16,16
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),FA,3-,3,163,16,3-16,19
+CIT  260,CIT  260-03,"Jackson, Kent",Day School (DAY),FA,3-,3,163,16,3-16,11
+CIT  260,CIT  260-05,"Jones, Craig",Online (ONLN),FA,3-,3,163,16,3-16,24
+CIT  260,CIT  260-06,"Gilliland, Daniel",Online (ONLN),FA,3-,3,163,16,3-16,27
+CIT  260,CIT  260-07,"Wright, David",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),FA,3-,3,163,16,3-16,25
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),FA,3-,3,163,16,3-16,27
+CIT  261,CIT  261-03,"Klein, Matthew",Online (ONLN),FA,3-,3,163,16,3-16,27
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,163,16,3-16,24
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),FA,3-,3,163,16,3-16,21
+CIT  262,CIT  262-03,"Hopkins, Nikki",Online (ONLN),FA,3-,3,163,16,3-16,17
+CIT  270,CIT  270-01,"Lindstrom, Craig",Day School (DAY),FA,3-,3,163,16,3-16,24
+CIT  270,CIT  270-02,"Lindstrom, Craig",Day School (DAY),FA,3-,3,163,16,3-16,16
+CIT  270,CIT  270-03,"Snider, David",Online (ONLN),FA,3-,3,163,16,3-16,32
+CIT  270,CIT  270-04,"Snider, David",Online (ONLN),FA,3-,3,163,16,3-16,27
+CIT  270,CIT  270-05,"Wickern, Josh",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  301B,CIT  301B-01,"Thompson, Shane",Day School (DAY),FA,3-,3,163,16,3-16,7
+CIT  325,CIT  325-01,"McLaughlin, Michael",Online (ONLN),FA,3-,3,163,16,3-16,24
+CIT  325,CIT  325-02,"McLaughlin, Michael",Day School (DAY),FA,3-,3,163,16,3-16,30
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,163,16,3-16,16
+CIT  336,CIT  336-02,"Robertson, Blaine",Online (ONLN),FA,3-,3,163,16,3-16,22
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),FA,3-,3,163,16,3-16,18
+CIT  336,CIT  336-04,"Woods, Bonny",Online (ONLN),FA,3-,3,163,16,3-16,20
+CIT  336,CIT  336-05,"Vest, Rebecca",Online (ONLN),FA,3-,3,163,16,3-16,20
+CIT  341,CIT  341-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,163,16,3-16,11
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,163,16,3-16,12
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),FA,3-,3,163,16,3-16,20
+CIT  352,CIT  352-03,"Vanderhoof, Brian",Online (ONLN),FA,3-,3,163,16,3-16,30
+CIT  353,CIT  353-01,"Lindstrom, Craig",Day School (DAY),FA,3-,3,163,16,3-16,26
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),FA,3-,3,163,16,3-16,20
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),FA,3-,3,163,16,3-16,23
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  360,CIT  360-03,"Larsen, Grant",Online (ONLN),FA,3-,3,163,16,3-16,18
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,163,16,3-16,20
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,163,16,3-16,28
+CIT  380,CIT  380-03,"Godfrey, Kory",Online (ONLN),FA,3-,3,163,16,3-16,33
+CIT  380,CIT  380-04,"Cox, Ryan",Online (ONLN),FA,3-,3,163,16,3-16,25
+CIT  380,CIT  380-05,"Salisbury, Thomas",Online (ONLN),FA,3-,3,163,16,3-16,19
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,163,16,3-16,8
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),FA,3-,3,163,16,3-16,23
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),FA,3-,3,163,16,3-16,12
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),FA,3-,3,163,16,3-16,16
+CIT  490,CIT  490-01,"Godfrey, Kory",Online (ONLN),FA,3-,3,163,16,3-16,12
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),FA,3-,3,163,16,3-16,30
+CIT  498,CIT  498-01,"Olaveson, Mark",Distant/Off-Camp (DIST),FA,3-,3,163,16,3-16,36
+CIT  499R,CIT  499R-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,163,16,3-16,1
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),FA,3-,3,163,16,3-16,30
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),FA,3-,3,163,16,3-16,30
+WDD  100,WDD  100-04,"Thompson, Shane",Day School (DAY),FA,3-,3,163,16,3-16,24
+WDD  100,WDD  100-05,"Karl, Eric",Online (ONLN),FA,3-,3,163,16,3-16,45
+WDD  100,WDD  100-06,"Adelsperger, Trish",Online (ONLN),FA,3-,3,163,16,3-16,45
+WDD  100,WDD  100-07,"Hancock, Steve",Online (ONLN),FA,3-,3,163,16,3-16,44
+WDD  100,WDD  100-09,"Bragg, Cary",Online (ONLN),FA,3-,3,163,16,3-16,45
+WDD  100,WDD  100-10,"Adelsperger, Trish",Online (ONLN),FA,3-,3,163,16,3-16,43
+WDD  398,WDD  398-01,"Thompson, Shane",Distant/Off-Camp (DIST),FA,3-,3,163,16,3-16,14
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),FA,3-,3,163,16,3-16,4
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),FA,3-,3,163,16,3-16,19
+CIT  110,CIT  110-01,"Robertson, Shawna",Online (ONLN),SS,SU-,SU-,16SU-,16,SU-16,30
+CIT  110,CIT  110-02,"Cook, Stefani",Online (ONLN),SS,SU-,SU-,16SU-,16,SU-16,31
+CIT  110,CIT  110-03,"Derricott, Tony",Online (ONLN),SS,SU-,SU-,16SU-,16,SS16,28
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),WI,1-,1,171,17,1-17,34
+CIT  110,CIT  110-03,"Robertson, Shawna",Online (ONLN),WI,1-,1,171,17,1-17,47
+CIT  110,CIT  110-04,"Cook, Stefani",Online (ONLN),WI,1-,1,171,17,1-17,47
+CIT  110,CIT  110-05,"Duffy, Ted",Online (ONLN),WI,1-,1,171,17,1-17,51
+CIT  110,CIT  110-07,"Derricott, Tony",Online (ONLN),WI,1-,1,171,17,1-17,48
+CIT  110,CIT  110-08,"Boushnak, Fara",Online (ONLN),WI,1-,1,171,17,1-17,49
+CIT  110,CIT  110-09,"Assmus, Jerah",Online (ONLN),WI,1-,1,171,17,1-17,47
+CIT  110,CIT  110-11,"Cook, Stefani",Online (ONLN),WI,1-,1,171,17,1-17,48
+CIT  111,CIT  111-02,"Morring, Brent",Day School (DAY),WI,1-,1,171,17,1-17,49
+CIT  111,CIT  111-04,"Hughes, Joel",Online (ONLN),WI,1-,1,171,17,1-17,26
+CIT  111,CIT  111-05,"Davis, Darin",Online (ONLN),WI,1-,1,171,17,1-17,26
+CIT  111,CIT  111-06,"Tidwell, Leon",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  111,CIT  111-07,"Adling, Robert",Online (ONLN),WI,1-,1,171,17,1-17,30
+CIT  111,CIT  111-09,"Mohan, Steven",Online (ONLN),WI,1-,1,171,17,1-17,20
+CIT  160,CIT  160-01,"Barzee, Rex",Day School (DAY),WI,1-,1,171,17,1-17,39
+CIT  160,CIT  160-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,171,17,1-17,30
+CIT  160,CIT  160-03,"Somsen, Randy",Day School (DAY),WI,1-,1,171,17,1-17,30
+CIT  160,CIT  160-04,"Barney, Lee",Day School (DAY),WI,1-,1,171,17,WI17,28
+CIT  160,CIT  160-05,"Reading, John",Online (ONLN),WI,1-,1,171,17,WI17,28
+CIT  160,CIT  160-06,"Wells, Daniel",Online (ONLN),WI,1-,1,171,17,WI17,28
+CIT  160,CIT  160-07,"Couraud, Jason",Online (ONLN),WI,1-,1,171,17,WI17,27
+CIT  160,CIT  160-08,"Williams, Jeff",Online (ONLN),WI,1-,1,171,17,WI17,30
+CIT  160,CIT  160-09,"Kidd, Dave",Online (ONLN),WI,1-,1,171,17,WI17,30
+CIT  160,CIT  160-10,"Simpson, Michael",Online (ONLN),WI,1-,1,171,17,WI17,29
+CIT  160,CIT  160-11,"Pratt, Jeremy",Online (ONLN),WI,1-,1,171,17,WI17,30
+CIT  160,CIT  160-13,"Blazzard, Jason",Online (ONLN),WI,1-,1,171,17,WI17,30
+CIT  160,CIT  160-14,"Blazzard, Jason",Online (ONLN),WI,1-,1,171,17,WI17,29
+CIT  225,CIT  225-02,"Morring, Brent",Day School (DAY),WI,1-,1,171,17,1-17,50
+CIT  225,CIT  225-03,"McLaughlin, Michael",Day School (DAY),WI,1-,1,171,17,1-17,34
+CIT  225,CIT  225-05,"Crook, Tanner",Online (ONLN),WI,1-,1,171,17,1-17,30
+CIT  225,CIT  225-06,"Voter, Jonathan",Online (ONLN),WI,1-,1,171,17,1-17,27
+CIT  225,CIT  225-07,"Muffler, Rick",Online (ONLN),WI,1-,1,171,17,1-17,29
+CIT  225,CIT  225-08,"White, Mick",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  225,CIT  225-09,"Kelley, David",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,171,17,1-17,21
+CIT  230,CIT  230-02,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,26
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),WI,1-,1,171,17,1-17,9
+CIT  230,CIT  230-05,"Somsen, Randy",Day School (DAY),WI,1-,1,171,17,1-17,19
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  230,CIT  230-07,"Horton, Rob",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  230,CIT  230-09,"Cheney, Paul",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  230,CIT  230-10,"Marsden, Adam",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  230,CIT  230-11,"Giles, David",Online (ONLN),WI,1-,1,171,17,1-17,20
+CIT  230,CIT  230-12,"Campbell, Katherine",Online (ONLN),WI,1-,1,171,17,1-17,23
+CIT  230,CIT  230-14,"Bangerter, Aaron",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  230,CIT  230-15,"Blazzard, Jason",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  240,CIT  240-04,"Armstrong, Bradley",Day School (DAY),WI,1-,1,171,17,1-17,25
+CIT  240,CIT  240-05,"Armstrong, Bradley",Day School (DAY),WI,1-,1,171,17,1-17,21
+CIT  240,CIT  240-06,"Bell, Scott",Online (ONLN),WI,1-,1,171,17,1-17,29
+CIT  240,CIT  240-07,"Todd, Kevin",Online (ONLN),WI,1-,1,171,17,1-17,30
+CIT  240,CIT  240-08,"Bell, Scott",Online (ONLN),WI,1-,1,171,17,1-17,29
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,171,17,1-17,34
+CIT  241,CIT  241-03,"Belk, Nathan",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  241,CIT  241-04,"Marchant, Ryan",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,171,17,1-17,31
+CIT  260,CIT  260-03,"Jackson, Kent",Day School (DAY),WI,1-,1,171,17,1-17,10
+CIT  260,CIT  260-04,"Olaveson, Mark",Day School (DAY),WI,1-,1,171,17,1-17,17
+CIT  260,CIT  260-05,"Jones, Craig",Online (ONLN),WI,1-,1,171,17,1-17,22
+CIT  260,CIT  260-06,"Gilliland, Daniel",Online (ONLN),WI,1-,1,171,17,1-17,28
+CIT  260,CIT  260-07,"Wright, David",Online (ONLN),WI,1-,1,171,17,1-17,28
+CIT  260,CIT  260-08,"Anderson, Kent",Online (ONLN),WI,1-,1,171,17,1-17,26
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),WI,1-,1,171,17,1-17,24
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),WI,1-,1,171,17,1-17,33
+CIT  261,CIT  261-03,"Klein, Matthew",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,171,17,1-17,18
+CIT  262,CIT  262-02,"Christensen, Drew",Online (ONLN),WI,1-,1,171,17,1-17,19
+CIT  262,CIT  262-03,"Hopkins, Nikki",Online (ONLN),WI,1-,1,171,17,1-17,14
+CIT  270,CIT  270-01,"Lindstrom, Craig",Day School (DAY),WI,1-,1,171,17,1-17,33
+CIT  270,CIT  270-02,"Lindstrom, Craig",Day School (DAY),WI,1-,1,171,17,1-17,29
+CIT  270,CIT  270-03,"Snider, David",Online (ONLN),WI,1-,1,171,17,1-17,35
+CIT  270,CIT  270-04,"Wickern, Josh",Online (ONLN),WI,1-,1,171,17,1-17,31
+CIT  270,CIT  270-05,"Hill, Jared",Online (ONLN),WI,1-,1,171,17,1-17,29
+CIT  301B,CIT  301B-01,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,7
+CIT  301B,CIT  301B-02,"Blaylock, Preston",Online (ONLN),WI,1-,1,171,17,1-17,20
+CIT  301C,CIT  301C-02,"Blazzard, Jason",Online (ONLN),WI,1-,1,171,17,1-17,18
+CIT  301C,CIT  301C-03,"Jackson, Kent",Day School (DAY),WI,1-,1,171,17,1-17,31
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),WI,1-,1,171,17,1-17,29
+CIT  325,CIT  325-02,"Hinckley, Kent",Online (ONLN),WI,1-,1,171,17,1-17,26
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),WI,1-,1,171,17,1-17,9
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),WI,1-,1,171,17,1-17,15
+CIT  336,CIT  336-03,"Neville, Michael",Online (ONLN),WI,1-,1,171,17,1-17,17
+CIT  336,CIT  336-04,"Woods, Bonny",Online (ONLN),WI,1-,1,171,17,1-17,21
+CIT  336,CIT  336-05,"Robertson, Blaine",Online (ONLN),WI,1-,1,171,17,1-17,16
+CIT  336,CIT  336-07,"Woods, Bonny",Online (ONLN),WI,1-,1,171,17,1-17,12
+CIT  341,CIT  341-01,"Armstrong, Bradley",Day School (DAY),WI,1-,1,171,17,1-17,14
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),WI,1-,1,171,17,1-17,27
+CIT  352,CIT  352-03,"Vanderhoof, Brian",Online (ONLN),WI,1-,1,171,17,1-17,25
+CIT  352,CIT  352-04,"Amy, Ryan",Online (ONLN),WI,1-,1,171,17,1-17,23
+CIT  353,CIT  353-01,"Lindstrom, Craig",Day School (DAY),WI,1-,1,171,17,1-17,28
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),WI,1-,1,171,17,1-17,23
+CIT  353,CIT  353-03,"Bradshaw, Parker",Online (ONLN),WI,1-,1,171,17,1-17,12
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),WI,1-,1,171,17,1-17,23
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),WI,1-,1,171,17,1-17,24
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,171,17,1-17,26
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),WI,1-,1,171,17,1-17,29
+CIT  380,CIT  380-03,"Parsons, Earl",Online (ONLN),WI,1-,1,171,17,1-17,27
+CIT  380,CIT  380-04,"Cox, Ryan",Online (ONLN),WI,1-,1,171,17,1-17,36
+CIT  380,CIT  380-05,"Salisbury, Thomas",Online (ONLN),WI,1-,1,171,17,1-17,20
+CIT  381,CIT  381-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,171,17,1-17,12
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),WI,1-,1,171,17,1-17,12
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),WI,1-,1,171,17,1-17,8
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),WI,1-,1,171,17,1-17,16
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,171,17,1-17,2
+CIT  490,CIT  490-02,"Godfrey, Kory",Online (ONLN),WI,1-,1,171,17,1-17,4
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),WI,1-,1,171,17,1-17,14
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),WI,1-,1,171,17,1-17,33
+CIT  498,CIT  498-01,"Muranaka, Lane",Distant/Off-Camp (DIST),WI,1-,1,171,17,1-17,18
+CIT  499R,CIT  499R-01,"Godfrey, Kory",Day School (DAY),WI,1-,1,171,17,1-17,5
+CIT  499R,CIT  499R-02,"McLaughlin, Michael",Day School (DAY),WI,1-,1,171,17,1-17,5
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,30
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,30
+WDD  100,WDD  100-04,"Adelsperger, Trish",Online (ONLN),WI,1-,1,171,17,1-17,45
+WDD  100,WDD  100-05,"Karl, Eric",Online (ONLN),WI,1-,1,171,17,1-17,44
+WDD  100,WDD  100-06,"Hall, Chris",Online (ONLN),WI,1-,1,171,17,1-17,43
+WDD  100,WDD  100-07,"Hancock, Steve",Online (ONLN),WI,1-,1,171,17,1-17,44
+WDD  100,WDD  100-09,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,25
+WDD  398,WDD  398-01,"Muranaka, Lane",Distant/Off-Camp (DIST),WI,1-,1,171,17,1-17,10
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),WI,1-,1,171,17,1-17,5
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),WI,1-,1,171,17,1-17,19
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),SP,2-,2,172,17,2-17,28
+CIT  110,CIT  110-03,"Robertson, Shawna",Online (ONLN),SP,2-,2,172,17,2-17,50
+CIT  110,CIT  110-04,"Assmus, Jerah",Online (ONLN),SP,2-,2,172,17,2-17,49
+CIT  110,CIT  110-05,"Cook, Stefani",Online (ONLN),SP,2-,2,172,17,2-17,50
+CIT  110,CIT  110-06,"Boushnak, Fara",Online (ONLN),SP,2-,2,172,17,2-17,44
+CIT  110,CIT  110-07,"Knight, Tanya",Online (ONLN),SP,2-,2,172,17,2-17,50
+CIT  110,CIT  110-08,"Duffy, Ted",Online (ONLN),SP,2-,2,172,17,2-17,50
+CIT  110,CIT  110-09,"Derricott, Tony",Online (ONLN),SP,2-,2,172,17,2-17,49
+CIT  111,CIT  111-02,"Morring, Brent",Day School (DAY),SP,2-,2,172,17,2-17,30
+CIT  111,CIT  111-03,"Morring, Brent",Day School (DAY),SP,2-,2,172,17,2-17,22
+CIT  111,CIT  111-04,"Hughes, Joel",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  111,CIT  111-05,"Davis, Darin",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  111,CIT  111-06,"Tidwell, Leon",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  111,CIT  111-07,"Adling, Robert",Online (ONLN),SP,2-,2,172,17,2-17,29
+CIT  160,CIT  160-01,"Barzee, Rex",Day School (DAY),SP,2-,2,172,17,2-17,30
+CIT  160,CIT  160-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,172,17,2-17,21
+CIT  160,CIT  160-03,"Hayes, Adam",Day School (DAY),SP,2-,2,172,17,2-17,17
+CIT  160,CIT  160-04,"Hayes, Adam",Day School (DAY),SP,2-,2,172,17,SP17,31
+CIT  160,CIT  160-05,"Wells, Daniel",Online (ONLN),SP,2-,2,172,17,SP17,29
+CIT  160,CIT  160-06,"Williams, Jeff",Online (ONLN),SP,2-,2,172,17,SP17,29
+CIT  160,CIT  160-07,"Kidd, Dave",Online (ONLN),SP,2-,2,172,17,SP17,30
+CIT  160,CIT  160-08,"Ferguson, Josh",Online (ONLN),SP,2-,2,172,17,SP17,29
+CIT  160,CIT  160-10,"Pratt, Jeremy",Online (ONLN),SP,2-,2,172,17,SP17,31
+CIT  160,CIT  160-11,"Blazzard, Jason",Online (ONLN),SP,2-,2,172,17,SP17,29
+CIT  160,CIT  160-12,"Barney, Lee",Day School (DAY),SP,2-,2,172,17,SP17,13
+CIT  225,CIT  225-01,"Morring, Brent",Day School (DAY),SP,2-,2,172,17,2-17,31
+CIT  225,CIT  225-02,"McLaughlin, Michael",Day School (DAY),SP,2-,2,172,17,2-17,31
+CIT  225,CIT  225-03,"McLaughlin, Michael",Day School (DAY),SP,2-,2,172,17,2-17,27
+CIT  225,CIT  225-04,"Crook, Tanner",Online (ONLN),SP,2-,2,172,17,2-17,30
+CIT  225,CIT  225-05,"Bowden, Casey",Online (ONLN),SP,2-,2,172,17,2-17,25
+CIT  225,CIT  225-06,"White, Mick",Online (ONLN),SP,2-,2,172,17,2-17,25
+CIT  225,CIT  225-08,"Kelley, David",Online (ONLN),SP,2-,2,172,17,2-17,24
+CIT  225,CIT  225-09,"Peterson, Trent",Online (ONLN),SP,2-,2,172,17,2-17,13
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),SP,2-,2,172,17,2-17,28
+CIT  230,CIT  230-02,"Thompson, Shane",Day School (DAY),SP,2-,2,172,17,2-17,30
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),SP,2-,2,172,17,2-17,20
+CIT  230,CIT  230-05,"Somsen, Randy",Day School (DAY),SP,2-,2,172,17,2-17,24
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),SP,2-,2,172,17,2-17,25
+CIT  230,CIT  230-07,"Cheney, Paul",Online (ONLN),SP,2-,2,172,17,2-17,23
+CIT  230,CIT  230-08,"Campbell, Katherine",Online (ONLN),SP,2-,2,172,17,2-17,20
+CIT  230,CIT  230-09,"Horton, Rob",Online (ONLN),SP,2-,2,172,17,2-17,23
+CIT  230,CIT  230-10,"Bangerter, Aaron",Online (ONLN),SP,2-,2,172,17,2-17,24
+CIT  230,CIT  230-12,"Odom, Mike",Online (ONLN),SP,2-,2,172,17,2-17,21
+CIT  230,CIT  230-13,"Blazzard, Jason",Online (ONLN),SP,2-,2,172,17,2-17,24
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),SP,2-,2,172,17,2-17,35
+CIT  240,CIT  240-03,"Lindstrom, Craig",Day School (DAY),SP,2-,2,172,17,2-17,28
+CIT  240,CIT  240-04,"Bell, Scott",Online (ONLN),SP,2-,2,172,17,2-17,28
+CIT  240,CIT  240-05,"Bell, Scott",Online (ONLN),SP,2-,2,172,17,2-17,28
+CIT  240,CIT  240-06,"Erickson, Blake",Online (ONLN),SP,2-,2,172,17,2-17,30
+CIT  240,CIT  240-07,"Force, Sheila",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,172,17,2-17,29
+CIT  241,CIT  241-02,"Marchant, Ryan",Online (ONLN),SP,2-,2,172,17,2-17,17
+CIT  241,CIT  241-03,"Marchant, Ryan",Online (ONLN),SP,2-,2,172,17,2-17,18
+CIT  241,CIT  241-04,"Stokes, Paul",Online (ONLN),SP,2-,2,172,17,2-17,18
+CIT  260,CIT  260-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,172,17,2-17,32
+CIT  260,CIT  260-04,"Olaveson, Mark",Day School (DAY),SP,2-,2,172,17,2-17,20
+CIT  260,CIT  260-05,"Jones, Craig",Online (ONLN),SP,2-,2,172,17,2-17,26
+CIT  260,CIT  260-06,"Clements, William",Online (ONLN),SP,2-,2,172,17,2-17,23
+CIT  260,CIT  260-07,"Anderson, Kent",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  260,CIT  260-08,"deBry, Roger",Online (ONLN),SP,2-,2,172,17,2-17,23
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),SP,2-,2,172,17,2-17,19
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  261,CIT  261-03,"Klein, Matthew",Online (ONLN),SP,2-,2,172,17,2-17,32
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,172,17,2-17,26
+CIT  262,CIT  262-02,"Hopkins, Nikki",Online (ONLN),SP,2-,2,172,17,2-17,11
+CIT  262,CIT  262-03,"Todd, Kevin",Online (ONLN),SP,2-,2,172,17,2-17,12
+CIT  270,CIT  270-01,"Lindstrom, Craig",Day School (DAY),SP,2-,2,172,17,2-17,29
+CIT  270,CIT  270-02,"Lindstrom, Craig",Day School (DAY),SP,2-,2,172,17,2-17,22
+CIT  270,CIT  270-03,"Snider, David",Online (ONLN),SP,2-,2,172,17,2-17,34
+CIT  270,CIT  270-04,"Wickern, Josh",Online (ONLN),SP,2-,2,172,17,2-17,32
+CIT  298R,CIT  298R-01,"Muranaka, Lane",Distant/Off-Camp (DIST),SP,2-,2,172,17,2-17,1
+CIT  301B,CIT  301B-01,"Thompson, Shane",Day School (DAY),SP,2-,2,172,17,2-17,10
+CIT  301B,CIT  301B-02,"Blaylock, Preston",Online (ONLN),SP,2-,2,172,17,2-17,20
+CIT  301B,CIT  301B-03,"Blaylock, Preston",Online (ONLN),SP,2-,2,172,17,2-17,21
+CIT  301C,CIT  301C-01,"Blazzard, Jason",Online (ONLN),SP,2-,2,172,17,2-17,15
+CIT  301C,CIT  301C-02,"Jackson, Kent",Day School (DAY),SP,2-,2,172,17,2-17,15
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),SP,2-,2,172,17,2-17,18
+CIT  325,CIT  325-02,"Hinckley, Kent",Online (ONLN),SP,2-,2,172,17,2-17,16
+CIT  325,CIT  325-03,"Hepworth, Chris",Online (ONLN),SP,2-,2,172,17,2-17,15
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),SP,2-,2,172,17,2-17,14
+CIT  336,CIT  336-02,"Robertson, Blaine",Day School (DAY),SP,2-,2,172,17,2-17,14
+CIT  336,CIT  336-03,"Robertson, Blaine",Online (ONLN),SP,2-,2,172,17,2-17,18
+CIT  336,CIT  336-04,"Woods, Bonny",Online (ONLN),SP,2-,2,172,17,2-17,24
+CIT  336,CIT  336-05,"Vest, Rebecca",Online (ONLN),SP,2-,2,172,17,2-17,25
+CIT  341,CIT  341-01,"Armstrong, Bradley",Day School (DAY),SP,2-,2,172,17,2-17,13
+CIT  352,CIT  352-02,"Olaveson, Mark",Day School (DAY),SP,2-,2,172,17,2-17,28
+CIT  352,CIT  352-03,"Amy, Ryan",Online (ONLN),SP,2-,2,172,17,2-17,27
+CIT  352,CIT  352-04,"King, Brian",Online (ONLN),SP,2-,2,172,17,2-17,23
+CIT  353,CIT  353-01,"Lindstrom, Craig",Day School (DAY),SP,2-,2,172,17,2-17,26
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),SP,2-,2,172,17,2-17,20
+CIT  353,CIT  353-03,"Bradshaw, Parker",Online (ONLN),SP,2-,2,172,17,2-17,13
+CIT  360,CIT  360-01,"Barney, Lee",Day School (DAY),SP,2-,2,172,17,2-17,17
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),SP,2-,2,172,17,2-17,39
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,172,17,2-17,30
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),SP,2-,2,172,17,2-17,27
+CIT  380,CIT  380-04,"Salisbury, Thomas",Online (ONLN),SP,2-,2,172,17,2-17,35
+CIT  380,CIT  380-05,"Bragg, Cary",Online (ONLN),SP,2-,2,172,17,2-17,29
+CIT  381,CIT  381-02,"Haymore, Richard",Online (ONLN),SP,2-,2,172,17,2-17,17
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),SP,2-,2,172,17,2-17,8
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),SP,2-,2,172,17,2-17,20
+CIT  490,CIT  490-01,"Godfrey, Kory",Day School (DAY),SP,2-,2,172,17,2-17,6
+CIT  490,CIT  490-02,"Godfrey, Kory",Online (ONLN),SP,2-,2,172,17,2-17,5
+CIT  495,CIT  495-01,"Jackson, Kent",Day School (DAY),SP,2-,2,172,17,2-17,20
+CIT  495,CIT  495-02,"Jackson, Kent",Online (ONLN),SP,2-,2,172,17,2-17,19
+CIT  498,CIT  498-01,"Muranaka, Lane",Distant/Off-Camp (DIST),SP,2-,2,172,17,2-17,20
+CIT  499R,CIT  499R-02,"Armstrong, Bradley",Day School (DAY),SP,2-,2,172,17,2-17,1
+CIT  499R,CIT  499R-03,"McLaughlin, Michael",Day School (DAY),SP,2-,2,172,17,2-17,30
+CIT  499R,CIT  499R-04,"Godfrey, Kory",Day School (DAY),SP,2-,2,172,17,2-17,1
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),SP,2-,2,172,17,2-17,24
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),SP,2-,2,172,17,2-17,13
+WDD  100,WDD  100-03,"Adelsperger, Trish",Online (ONLN),SP,2-,2,172,17,2-17,40
+WDD  100,WDD  100-04,"Adelsperger, Trish",Online (ONLN),SP,2-,2,172,17,2-17,25
+WDD  100,WDD  100-05,"Hancock, Steve",Online (ONLN),SP,2-,2,172,17,2-17,42
+WDD  100,WDD  100-06,"Karl, Eric",Online (ONLN),SP,2-,2,172,17,2-17,43
+WDD  398,WDD  398-01,"Muranaka, Lane",Distant/Off-Camp (DIST),SP,2-,2,172,17,2-17,19
+WDD  499,WDD  499-01,"Thompson, Shane",Day School (DAY),SP,2-,2,172,17,2-17,2
+WDD  499,WDD  499-02,"Thompson, Shane",Online (ONLN),SP,2-,2,172,17,2-17,17
+CIT  110,CIT  110-01,"Somsen, Randy",Day School (DAY),FA,3-,3,173,17,3-17,28
+CIT  110,CIT  110-04,"Robertson, Shawna",Online (ONLN),FA,3-,3,173,17,3-17,47
+CIT  110,CIT  110-05,"Assmus, Jerah",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-06,"Duffy, Ted",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-07,"Cook, Stefani",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-08,"Boushnak, Fara",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-09,"Knight, Tanya",Online (ONLN),FA,3-,3,173,17,3-17,49
+CIT  110,CIT  110-10,"Derricott, Tony",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-11,"Cook, Stefani",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-12,"Knight, Tanya",Online (ONLN),FA,3-,3,173,17,3-17,50
+CIT  110,CIT  110-13,"Stimpson, Jacob",Online (ONLN),FA,3-,3,173,17,3-17,47
+CIT  111,CIT  111-01,"Morring, Brent",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  111,CIT  111-03,"Barzee, Rex",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  111,CIT  111-04,"Davis, Darin",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  111,CIT  111-05,"Davis, Darin",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  111,CIT  111-06,"Tidwell, Leon",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  111,CIT  111-07,"Adling, Robert",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  111,CIT  111-08,"Mohan, Steven",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  111,CIT  111-09,"Tidwell, Leon",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  160,CIT  160-01,"Barney, Lee",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  160,CIT  160-02,"Barzee, Rex",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  160,CIT  160-03,"Barney, Lee",Day School (DAY),FA,3-,3,173,17,3-17,33
+CIT  160,CIT  160-05,"Wells, Daniel",Online (ONLN),FA,3-,3,173,17,FA17,26
+CIT  160,CIT  160-06,"Couraud, Jason",Online (ONLN),FA,3-,3,173,17,FA17,28
+CIT  160,CIT  160-07,"Reading, John",Online (ONLN),FA,3-,3,173,17,FA17,29
+CIT  160,CIT  160-08,"Williams, Jeff",Online (ONLN),FA,3-,3,173,17,FA17,29
+CIT  160,CIT  160-09,"Kidd, Dave",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-10,"Simpson, Michael",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-11,"Pratt, Jeremy",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-12,"Marsden, Adam",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-13,"Ferguson, Josh",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-14,"Blazzard, Jason",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-15,"Blazzard, Jason",Online (ONLN),FA,3-,3,173,17,FA17,29
+CIT  160,CIT  160-16,"Reading, John",Online (ONLN),FA,3-,3,173,17,FA17,30
+CIT  160,CIT  160-18,"Hayes, Adam",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  160,CIT  160-19,"Wells, Daniel",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  160,CIT  160-20,"Simpson, Michael",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  160,CIT  160-21,"Ferguson, Josh",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  160,CIT  160-22,"Olaveson, Mark",Day School (DAY),FA,3-,3,173,17,3-17,11
+CIT  225,CIT  225-01,"Morring, Brent",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  225,CIT  225-02,"Morring, Brent",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  225,CIT  225-03,"McLaughlin, Michael",Day School (DAY),FA,3-,3,173,17,3-17,29
+CIT  225,CIT  225-04,"Crook, Tanner",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  225,CIT  225-06,"White, Mick",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  225,CIT  225-08,"Bowden, Casey",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  225,CIT  225-09,"Stevic, Don",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  225,CIT  225-10,"Peterson, Trent",Online (ONLN),FA,3-,3,173,17,3-17,24
+CIT  230,CIT  230-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,173,17,3-17,21
+CIT  230,CIT  230-03,"Somsen, Randy",Day School (DAY),FA,3-,3,173,17,3-17,5
+CIT  230,CIT  230-04,"Somsen, Randy",Day School (DAY),FA,3-,3,173,17,3-17,11
+CIT  230,CIT  230-05,"Campbell, Katherine",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  230,CIT  230-06,"Odom, Mike",Online (ONLN),FA,3-,3,173,17,3-17,23
+CIT  230,CIT  230-07,"Cheney, Paul",Online (ONLN),FA,3-,3,173,17,3-17,23
+CIT  230,CIT  230-08,"Horton, Rob",Online (ONLN),FA,3-,3,173,17,3-17,21
+CIT  230,CIT  230-10,"Thayne, Tim",Online (ONLN),FA,3-,3,173,17,3-17,23
+CIT  230,CIT  230-11,"Blazzard, Jason",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  230,CIT  230-15,"Thayne, Tim",Day School (DAY),FA,3-,3,173,17,3-17,9
+CIT  230,CIT  230-16,"Thayne, Tim",Day School (DAY),FA,3-,3,173,17,3-17,11
+CIT  240,CIT  240-01,"Lindstrom, Craig",Day School (DAY),FA,3-,3,173,17,3-17,29
+CIT  240,CIT  240-02,"Armstrong, Bradley",Day School (DAY),FA,3-,3,173,17,3-17,34
+CIT  240,CIT  240-04,"Bell, Scott",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  240,CIT  240-05,"Erickson, Blake",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  240,CIT  240-06,"Force, Sheila",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  240,CIT  240-07,"Belk, Nathan",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  240,CIT  240-08,"Bell, Scott",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  241,CIT  241-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,173,17,3-17,27
+CIT  241,CIT  241-02,"Marchant, Ryan",Online (ONLN),FA,3-,3,173,17,3-17,29
+CIT  241,CIT  241-03,"Stokes, Paul",Online (ONLN),FA,3-,3,173,17,3-17,26
+CIT  260,CIT  260-01,"Jackson, Kent",Day School (DAY),FA,3-,3,173,17,3-17,23
+CIT  260,CIT  260-03,"Olaveson, Mark",Day School (DAY),FA,3-,3,173,17,3-17,20
+CIT  260,CIT  260-05,"Wright, David",Online (ONLN),FA,3-,3,173,17,3-17,27
+CIT  260,CIT  260-06,"Anderson, Kent",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  260,CIT  260-07,"deBry, Roger",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  260,CIT  260-09,"Westensee, Andrew",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  261,CIT  261-01,"Barney, Lee",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  261,CIT  261-02,"James, Gary",Online (ONLN),FA,3-,3,173,17,3-17,27
+CIT  261,CIT  261-03,"Baer, Johan",Online (ONLN),FA,3-,3,173,17,3-17,31
+CIT  261,CIT  261-04,"James, Gary",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  262,CIT  262-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,173,17,3-17,11
+CIT  262,CIT  262-02,"Hopkins, Nikki",Online (ONLN),FA,3-,3,173,17,3-17,18
+CIT  262,CIT  262-03,"Todd, Kevin",Online (ONLN),FA,3-,3,173,17,3-17,15
+CIT  270,CIT  270-01,"Lindstrom, Craig",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  270,CIT  270-02,"Lindstrom, Craig",Day School (DAY),FA,3-,3,173,17,3-17,34
+CIT  270,CIT  270-03,"Snider, David",Online (ONLN),FA,3-,3,173,17,3-17,34
+CIT  270,CIT  270-04,"Wickern, Josh",Online (ONLN),FA,3-,3,173,17,3-17,31
+CIT  270,CIT  270-05,"Vanderhoof, Brian",Online (ONLN),FA,3-,3,173,17,3-17,32
+CIT  298R,CIT  298R-01,"Muranaka, Lane",Distant/Off-Camp (DIST),FA,3-,3,173,17,3-17,1
+CIT  325,CIT  325-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,173,17,3-17,30
+CIT  325,CIT  325-02,"Hinckley, Kent",Online (ONLN),FA,3-,3,173,17,3-17,21
+CIT  325,CIT  325-03,"Hinckley, Kent",Online (ONLN),FA,3-,3,173,17,3-17,12
+CIT  336,CIT  336-01,"Robertson, Blaine",Day School (DAY),FA,3-,3,173,17,3-17,17
+CIT  336,CIT  336-03,"Woods, Bonny",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  336,CIT  336-04,"Robertson, Blaine",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  336,CIT  336-05,"Neville, Michael",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  336,CIT  336-06,"Vest, Rebecca",Online (ONLN),FA,3-,3,173,17,3-17,19
+CIT  341,CIT  341-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,173,17,3-17,7
+CIT  345,CIT  345-01,"Armstrong, Bradley",Day School (DAY),FA,3-,3,173,17,3-17,5
+CIT  352,CIT  352-01,"Olaveson, Mark",Day School (DAY),FA,3-,3,173,17,3-17,21
+CIT  352,CIT  352-03,"Amy, Ryan",Online (ONLN),FA,3-,3,173,17,3-17,28
+CIT  352,CIT  352-04,"King, Brian",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  353,CIT  353-01,"Lindstrom, Craig",Day School (DAY),FA,3-,3,173,17,3-17,20
+CIT  353,CIT  353-02,"Bradshaw, Parker",Online (ONLN),FA,3-,3,173,17,3-17,27
+CIT  353,CIT  353-03,"Bradshaw, Parker",Online (ONLN),FA,3-,3,173,17,3-17,21
+CIT  360,CIT  360-01,"Barzee, Rex",Day School (DAY),FA,3-,3,173,17,3-17,26
+CIT  360,CIT  360-02,"Tuckett, Troy",Online (ONLN),FA,3-,3,173,17,3-17,25
+CIT  360,CIT  360-03,"Tuckett, Troy",Online (ONLN),FA,3-,3,173,17,3-17,22
+CIT  365,CIT  365-01,"Blazzard, Jason",Online (ONLN),FA,3-,3,173,17,3-17,18
+CIT  365,CIT  365-02,"Thayne, Tim",Day School (DAY),FA,3-,3,173,17,3-17,9
+CIT  366,CIT  366-01,"Jackson, Kent",Day School (DAY),FA,3-,3,173,17,3-17,15
+CIT  380,CIT  380-01,"Godfrey, Kory",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  380,CIT  380-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,173,17,3-17,20
+CIT  380,CIT  380-03,"Salisbury, Thomas",Online (ONLN),FA,3-,3,173,17,3-17,32
+CIT  380,CIT  380-04,"Cox, Ryan",Online (ONLN),FA,3-,3,173,17,3-17,24
+CIT  380,CIT  380-05,"Bragg, Cary",Online (ONLN),FA,3-,3,173,17,3-17,21
+CIT  381,CIT  381-02,"Carver, Jeff",Online (ONLN),FA,3-,3,173,17,3-17,30
+CIT  425,CIT  425-01,"Jackson, Kent",Day School (DAY),FA,3-,3,173,17,3-17,9
+CIT  470,CIT  470-01,"Rigby, Steven",Day School (DAY),FA,3-,3,173,17,3-17,11
+CIT  490,CIT  490-04,"Robertson, Blaine",Online (ONLN),FA,3-,3,173,17,3-17,9
+CIT  495,CIT  495-03,"Jackson, Kent",Online (ONLN),FA,3-,3,173,17,3-17,23
+CIT  498,CIT  498-01,"Muranaka, Lane",Distant/Off-Camp (DIST),FA,3-,3,173,17,3-17,29
+CIT  499R,CIT  499R-01,"McLaughlin, Michael",Day School (DAY),FA,3-,3,173,17,3-17,31
+CIT  499R,CIT  499R-02,"Godfrey, Kory",Day School (DAY),FA,3-,3,173,17,3-17,2
+WDD  100,WDD  100-01,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,27
+WDD  100,WDD  100-02,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,22
+WDD  100,WDD  100-03,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,30
+WDD  100,WDD  100-04,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,30
+WDD  100,WDD  100-05,"Adelsperger, Trish",Online (ONLN),FA,3-,3,173,17,3-17,45
+WDD  100,WDD  100-06,"Hancock, Steve",Online (ONLN),FA,3-,3,173,17,3-17,44
+WDD  100,WDD  100-07,"Konecki, Kenneth",Online (ONLN),FA,3-,3,173,17,3-17,44
+WDD  100,WDD  100-08,"Adelsperger, Trish",Online (ONLN),FA,3-,3,173,17,3-17,44
+WDD  100,WDD  100-09,"Hancock, Steve",Online (ONLN),FA,3-,3,173,17,3-17,45
+WDD  100,WDD  100-10,"Konecki, Kenneth",Online (ONLN),FA,3-,3,173,17,3-17,43
+WDD  100,WDD  100-11,"Adelsperger, Trish",Online (ONLN),FA,3-,3,173,17,3-17,38
+WDD  331,WDD  331-01,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,13
+WDD  331,WDD  331-02,"Blaylock, Preston",Online (ONLN),FA,3-,3,173,17,3-17,21
+WDD  331,WDD  331-03,"Blaylock, Preston",Online (ONLN),FA,3-,3,173,17,3-17,20
+WDD  398,WDD  398-01,"Muranaka, Lane",Distant/Off-Camp (DIST),FA,3-,3,173,17,3-17,10
+WDD  499,WDD  499-02,"Thompson, Shane",Day School (DAY),FA,3-,3,173,17,3-17,5
+WDD  499,WDD  499-03,"Thompson, Shane",Online (ONLN),FA,3-,3,173,17,3-17,19
+CIT  110,CIT  110-01,"Robertson, Shawna",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,39
+CIT  110,CIT  110-02,"Assmus, Jerah",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,38
+CIT  160,CIT  160-01,"Couraud, Jason",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,23
+CIT  160,CIT  160-02,"Williams, Jeff",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,21
+CIT  230,CIT  230-01,"Odom, Mike",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,10
+CIT  230,CIT  230-02,"Bangerter, Aaron",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,12
+CIT  230,CIT  230-03,"Campbell, Katherine",Online (ONLN),SS,SU-,SU-,17SU-,17,SU-17,9

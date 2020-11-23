@@ -37,6 +37,11 @@ export default new Router({
       path: "/spreadsheet2",
       name: "Spreadsheet2",
       component: () => import("./components/spreadsheet2")
+    },
+    {
+      path: "/spreadsheet3",
+      name: "Spreadsheet3",
+      component: () => import("./components/spreadsheet3")
     }
   ]
 });
