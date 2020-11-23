@@ -1,5 +1,5 @@
 <template>
-      <hot-table licenseKey='non-commercial-and-evaluation' :data="data" :rowHeaders="true" :colHeaders=colHeaders></hot-table>
+      <hot-table  :settings="hotSettings"></hot-table>
 </template>
 
 
@@ -11,13 +11,18 @@ export default {
     name: 'Spreadsheet2',
     data: function() {
       return {
-        search: true,
-        colHeaders: ["Year", "Ford", "Volvo", "Toyota", "Honda"],
-        data: [
-          ["2016", 10, 11, 12, 13],
-          ["2017", 20, 11, 14, 13],
-          ["2018", 30, 15, 12, 13]
+        hotSettings: {
+          licenseKey:'non-commercial-and-evaluation',
+          rowHeaders:true,
+          search: true,
+          colHeaders: ["Year", "Ford", "Volvo", "Toyota", "Honda"],
+          data: [
+            ["2016", 10, 11, 12, 13],
+            ["2017", 20, 11, 14, 13],
+            ["2018", 30, 15, 12, 13]
         ],
+        },
+
       };
     },
     components: {
