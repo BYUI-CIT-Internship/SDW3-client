@@ -69,7 +69,37 @@ export default {
       },
       generateColumnInfo()
       {
-        
+
+        //NOTE - For each column do this:
+          // COMMENT - iterate through store values in a set
+          //Then we store it into an array, then repeat for each column.
+          var columnAutoComplete = []
+          var numKeys = Object.keys(EnrollmentData[0]).length;
+          var keyArray = Object.keys(EnrollmentData[0]);
+          for(var i=0; i < numKeys; i++)
+          {
+            var tempSet = new Set();
+            tempSet = tempSet.clear()
+            //loop that grabs column unique vals:
+            EnrollmentData.forEach(element => {
+              
+              tempSet.add(element[keyArray[i]])
+            })
+            columnAutoComplete.push(tempSet);
+
+          }
+
+          //Generate proper JSON: 
+          var JSONAutoCompletInfo = columnAutoComplete.forEach(element => {
+            var tempObj = {
+              type: "autocomplete",
+              source: element
+            }
+            return tempObj
+          })
+
+          return JSONAutoCompletInfo;
+
         // var temparray = new Array(EnrollmentData);
         // var header = this.getHeaderData()
         // console.log(header)
@@ -127,7 +157,7 @@ export default {
 
     beforeMount(){
       this.hotSettings.colHeaders = this.getHeaderData()
-      this.generateColumnInfo()
+      this.hotSettings.columns = this.generateColumnInfo()
 
     }
 }
