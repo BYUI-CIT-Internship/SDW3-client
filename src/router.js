@@ -42,6 +42,11 @@ export default new Router({
       path: "/spreadsheet3",
       name: "Spreadsheet3",
       component: () => import("./components/spreadsheet3")
+    },
+    {
+      path: "/debug",
+      name: "debug",
+      component: () => import("./components/debug")
     }
   ]
 });

@@ -10,4 +10,12 @@ class SerendipityDataService
         console.log(JSON.stringify(columnNames));
         return http.get(`/serendipity?columns=${columnNames}`);
     }
+    getCourses()
+    {
+        console.log("Fetching the courses from the back end")
+        return http.get('/serendipity/courses');
+    }
+
 }
+
+export default new SerendipityDataService();
