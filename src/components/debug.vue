@@ -1,6 +1,9 @@
 <template>
     <v-container>
-        <v-card>
+        <v-card v-model="dbdata">
+            <v-card-title>
+                The database returned these courses: 
+            </v-card-title>
             <v-card-text>{{dbdata}}</v-card-text>
         </v-card>
     </v-container>
@@ -13,28 +16,25 @@ import SerendipityDataService from '../services/SerendipityDataService';
 export default {
     name: "debug",
     data:()=> ({
-        dbdata: {}
+        dbdata: []
     }),
     methods: {
         getCourses()
         {
-            var tempResponse;
             SerendipityDataService.getCourses()
             .then(response => {
-            tempResponse = response.data;
+            this.dbdata = response.data;
             console.log("Response:" + JSON.stringify(response.data));
         })
         .catch(e => {
           console.log(e);
         });
-        return tempResponse;
+
         }
     },
-    beforeMount(){
-        this.dbdata = this.getCourses();
-    },
     mounted(){
-        this.dbdata = this.getCourses()
+        this.getCourses();
+        console.log(this.dbdata)
     }
 }
 </script>
