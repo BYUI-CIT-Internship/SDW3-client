@@ -22,7 +22,7 @@ export default {
             SerendipityDataService.getCourses()
             .then(response => {
             tempResponse = response.data;
-            console.log("Response:" + response.data);
+            console.log("Response:" + JSON.stringify(response.data));
         })
         .catch(e => {
           console.log(e);
